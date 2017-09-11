@@ -127,8 +127,8 @@ To summarize, for half year convention, the depreciation percentage is:
 
 P = 1-D/2Y                              for N=1
     (1-D/2Y)(1-D/Y)^(N-2)*D/Y           for N>=2 and N < ceiling(Y*(1-1/D)+3/2)
-    (1-D/2Y)(1-D/Y)^(N-2)/(Y-X+3/2)     for N>= ceiling(Y*(1-1/D)+3/2) and N < Y+1
-    (1-D/2Y)(1-D/Y)^(N-2)/(Y-X+3/2)/2   for N=Y+1
+    (1-D/2Y)(1-D/Y)^(N-2)/(Y-N+3/2)     for N>= ceiling(Y*(1-1/D)+3/2) and N < Y+1
+    (1-D/2Y)(1-D/Y)^(N-2)/(Y-N+3/2)/2   for N=Y+1
 
 where ceiling is the least integer if the solution is not an integer [3].
 
@@ -139,6 +139,16 @@ not honor the federal accelerated depreciation, so every year we need add
 a portion of the additional depreciation to the Virginia income in early
 years, and subtract in later years, and this appears as mysteriously as
 "fixed date conformity".
+
+PS: The equation can be extended to any convention. Let p denotes the portion
+for the first year the asset is in service, for example, if an asset is placed
+in service in December with Mid-Quarter convention, then d=1/8. The general
+equation is:
+
+P = 1-pD/Y                                  for N=1
+    (1-pD/Y)(1-D/Y)^(N-2)*D/Y               for N>=2 and N < ceiling(Y*(1-1/D)+2-d)
+    (1-pD/Y)(1-D/Y)^(N-2)/(Y-N+2-p)         for N>= ceiling(Y*(1-1/D)+2-d) and N < Y+1
+    (1-pD/Y)(1-D/Y)^(N-2)/(Y-N+2-p)*(1-p)   for N=Y+1
 
 Reference:
 
