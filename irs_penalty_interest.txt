@@ -10,6 +10,27 @@ tax penalty because the obligation of a particular quarter was not met.
 Although it is called "penalty", it is calculated based on interest.
 The penalty enters in Form 1040 on page 2 line 79.
 
+How much is the estimated tax penalty? It depends on the interest rate on
+each quarter. Suppose it is 4% which is true for 2016, the tax shortage to
+meet the minimum requirement without penalty is T1, Because the quarterly
+estimated tax pay date are: 4/15,  6/15, 9/15, and 1/15 next year,
+so you are late each quarter for 12, 10, 7, and 3 months respectively
+if you pay tax on 4/15 next year, the interest you owe is T1/4 * 4% *
+(12/12 + 10/12 + 7/12 + 3/12) = T1 * 2.667%.  The percentage is on the
+short form 2210 line 15 is 2.656%, the error is less than 0.4% due to
+that I estimated with months while IRS counted the days.
+
+The minimum tax you need to pay without penalty is the lesser of 90%
+of this year's tax or 90% of last year's tax. The penalty is less than
+2.656% of the actual tax owed because:
+
+Penalty / Tax_Owed 
+= Penalty / ( This Year's Tax - Tax Prepaid )
+< Penalty / ( This Year's Tax * 90% - Tax Prepaid )
+<= Penalty / ( Min(This Year's Tax * 90%, Last Year's Tax * 90%) - Tax Prepaid )
+= Penalty / T1
+= 2.656 %.
+
 If you do not file and pay tax on time, there will be additional fail
 to file penalty, fail to pay penalty, and additional interest until it
 is paid.
