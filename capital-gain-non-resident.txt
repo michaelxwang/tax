@@ -25,8 +25,9 @@ from their gross income [Pub 519].
 
 - For residents, short term capital gain, non-qualified dividend, and
 interest are taxed as regular income, long term and qualified dividend
-are taxed at 0% to 20% depending in tax bracket.
+are taxed at 0% to 20% depending in tax bracket [2].
 
 Reference:
 
 [1] https://www.irs.gov/individuals/international-taxpayers/the-taxation-of-capital-gains-of-nonresident-alien-students-scholars-and-employees-of-foreign-governments
+[2] https://en.wikipedia.org/wiki/Capital_gains_tax_in_the_United_States
