@@ -153,6 +153,6 @@ in simple terms. If you need further clarification, please ask.
 
 ```
 Michael Wang, EA. Admitted to Practice Before the IRS.
-Tax Professional Since 2005, All States.  *Tax Return*
-Quality Service At Low Cost.              *Over Cloud*
+Tax Professional Since 2005, All States. Cloud Tax Return.
+mwang@unixlabplus.com.
 ```
