@@ -127,7 +127,7 @@ but you do not have qualified expenses, the money will be forfeited
 but you do not pay tax on the amount forfeited. If you use the money to
 pay to qualified expenses, but you cannot claim the child (for example,
 you ex claimed it), then the amount needs to add back and be taxed. With
-out of pocket expenses, there is no forfei, and no adding back because
+out of pocket expenses, there is no forfeit, and no adding back because
 nothing was deducted in the first place. If you cannot claim the child,
 you just cannot claim the credit.
 
@@ -150,6 +150,64 @@ a dependent care FSA can't have a carryover feature.
 I hope the information is useful. The tax laws are complicated, I tried
 to cover the most common cases, but I still find it hard to explain it
 in simple terms. If you need further clarification, please ask.
+
+### Orthodontia (braces) and FSA (and HSA)
+
+Unless the orthodontic treatment is 100% cosmetic, it is eligible
+flexible spending because [irs](https://www.irs.gov/publications/p502#en_US_2013_publink1000178923)
+said (teeth whitening is not):
+
+> You can include in medical expenses the amounts you pay for the prevention
+> and alleviation of dental disease. Preventive treatment includes the
+> services of a dental hygienist or dentist for such procedures as teeth
+> cleaning, the application of sealants, and fluoride treatments to prevent
+> tooth decay. Treatment to alleviate dental disease include services of
+> a dentist for procedures such as X-rays, fillings, _braces_, extractions,
+> dentures, and other dental ailments.
+
+Normally you can only to use fund from FSA to pay services provided
+in the same year. However orthodontic treatment can last as long as
+eighteen months, and expensive and people often opts to use pay for
+services through a payment plan.
+
+I cannot find the primary source information how the payments are
+reimbursed, but [Pro Benefits](http://www.probenefits.com/participants/learn/articles/reimbursement-for-orthodontia),
+a service administrator, stated in their website:
+
+> Previous informal IRS guidance has confirmed that it is permissible for
+> orthodontia expenses to be reimbursed according to a deferred payment
+> plan. This method is especially helpful for participants who do not do
+> lump-sum payments or who have significant expenses over a multi-year
+> period.
+
+Another plan administrator [wageworks](http://www.wageworks.com/media/124861/WW-FSA-ORTHO-FLY_11-07-13_HiRes.pdf)
+has this to say:
+
+> Setting up monthly recurring Pay My Provider payment requests are
+> the easiest way to pay monthly orthodontic expenses. This method
+> also ensures your orthodontic payments will be _spread out across
+> multiple plan years_ so you can make the most of your plan (given
+> applicable maximum election amount).
+
+and it continues:
+
+> If you paid a lump sum in the prior calendar year and were reimbursed
+> a prorated amount, _the unclaimed amount can be reimbursed in the
+> current plan year_ (if you are still receiving orthodontia services) by
+> providing a copy of the payment information, claim form and a letter
+> indicating the amount you were reimbursed in the prior year.
+
+For recurring payment, you’ll need to submit a contract
+instead of an invoice which has the following information:
+
+- Provider name
+- Patient name
+- Description of service
+- Payment schedule, including dates of service
+- Payment amount
+
+Payment plan is less a problem for HSA because it does not have
+use to lose rule.
 
 ```
 Michael Wang, EA. Admitted to Practice Before the IRS.
