@@ -20,6 +20,8 @@ This means the prepaid _state income tax_ would be deductible except that the fi
 
 Neither the US code nor the court cases address the _property tax_. By the similarity of the previous court cases, and none of the US code prohibiting this, it is a natural conclusion that prepaid property tax should be deductible in the year paid under the similar conditions that it is a payment, not a deposit, and that the payment was made in good faith that you actually owe the amount of tax. 
 
+Who should prepay the property taxes? Those who do not expect hit AMT in 2017.
+
 News reports and blogs on the net are not authorative documents, but it is interesting to see what people say on the topic.
 
 [CNBC](https://www.cnbc.com/2017/12/18/prepaying-2018-state-income-taxes-is-blocked-in-gop-bill.html) reports:
@@ -40,7 +42,9 @@ News reports and blogs on the net are not authorative documents, but it is inter
 
 >The payment sent to a state or local government before 2018 to apply against 2018 tax liability is a mere deposit. Tax deductions are not available for deposits (Rev. Rul. 79-229).
 
-I find the argument interesting. A deposit is usually made to hold something for you, for example, to buy a house. If you cancel your order, you may loose your deposit. I do not think I cannot cancel by property taxes. 
+I find the argument interesting. A deposit is usually made to hold something for you, for example, to buy a house. If you cancel your order, you may loose your deposit. I do not think I can cancel by property taxes. 
+
+[Governor Cuomo](https://nypost.com/2017/12/22/cuomo-signs-order-to-help-new-york-property-owners-with-new-tax-bill/) issued an emergency order Friday allowing property owners to prepay their 2018 school and property taxes so the levies can be deducted from this year’s federal returns.
 
 ```
 Michael Wang, Enrolled Agent, Certified Acceptance Agent.
