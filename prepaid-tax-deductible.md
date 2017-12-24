@@ -44,7 +44,7 @@ News reports and blogs on the net are not authorative documents, but it is inter
 
 I find the argument interesting. A deposit is usually made to hold something for you, for example, to buy a house. If you cancel your order, you may loose your deposit. I do not think I can cancel by property taxes. 
 
-[Governor Cuomo](https://nypost.com/2017/12/22/cuomo-signs-order-to-help-new-york-property-owners-with-new-tax-bill/) issued an emergency order Friday allowing property owners to prepay their 2018 school and property taxes so the levies can be deducted from this year’s federal returns.
+[Governor Cuomo of New York](https://nypost.com/2017/12/22/cuomo-signs-order-to-help-new-york-property-owners-with-new-tax-bill/) issued an emergency order Friday allowing property owners to prepay their 2018 school and property taxes so the levies can be deducted from this year’s federal returns.
 
 ```
 Michael Wang, Enrolled Agent, Certified Acceptance Agent.
