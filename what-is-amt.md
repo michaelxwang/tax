@@ -2,7 +2,7 @@
 
 AMT stands for _Alternative Minimum Tax_. According to the official definition in [26 U.S. code §55](https://www.law.cornell.edu/uscode/text/26/55) and the actual usage on [line 45 of form 1040](https://www.irs.gov/pub/irs-pdf/f1040.pdf), it is the amount by which the _Tentative Minimum Tax (TMT)_ exceeds the _Regular Income Tax (RIT)_.
 
-The Tentative Minimum Tax (TMT) is the tax computed with a parallel method different from the regular tax compupter, which we will discuss in next section.
+The Tentative Minimum Tax (TMT) is the tax computed with a parallel method different from the regular tax, which we will discuss in next section.
 
 The relationship among Regular Income Tax (RIT), Tentative Minimum Tax (TMT), and Alternative Minimum Tax (AMT) are shown in the picture below:
 
@@ -46,7 +46,7 @@ Suppose the deduction is D, and since the personal exemptions are 8100 for 2 per
 RIT = (150,000 - D - 8100) * 25% - 8457.50
 ```
 
-Obviously the more the deduction, the less regular tax. When deduction reaches 39,222, the regular tax is below the tentative miminum tax, so the AMT kicks in. 
+Obviously the more the deduction, the less regular tax. When deduction reaches 39,222, the regular tax is below the tentative minimum tax, so the AMT kicks in. 
 
 ### New tax law change
 
@@ -70,6 +70,8 @@ The purpose of AMT is ensure that rich people to pay a minimum amount of taxes b
 Bill and Hillary Clinton did not pay AMT in their [2015 tax return](http://www.taxhistory.org/thp/presreturns.nsf/Returns/FCA79776EFA029088525800D005A016C/$file/HR_Clinton_2015.pdf) even their income is _10.5 millions_. This is because the deduction is moderate relatively speaking (and a major part of the deductions was charitable donations which were allowed), and they paid _3.2 millions_ in regular taxes. The effective tax rate is _30.5%_ which exceeds the maximum 28% AMT tax rate.
 
 In [Donald Trump's 2005 tax return](http://www.taxhistory.org/thp/presreturns.nsf/Returns/6ECD0CC206C03A7F852580E90049B2B1/$file/trump2005tax.pdf), he paid _38 millions_ federal tax, of which _31 millions_ were attributed to AMT, without which he would have paid a little over 10% income tax of his AGI.
+
+In conclusion, when you hit AMT, it does not mean that you hit another tax, but IRS does not allow you to deduct anymore. The amount of AMT tax represents the tax you would have save if the deduction were allowed.
 
 ```
 Michael Wang, EA. Admitted to Practice Before the IRS.
