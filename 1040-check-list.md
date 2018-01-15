@@ -163,18 +163,6 @@ The itemized duduction items:
     
    -   1095-A, 1095-B, or 1095-C if you and your family are NOT covered full year by employer's health insurance.
     
-### Information for ITIN (Individual Taxpayer Identification Number) applicant (the one who needs ITIN)
-    
-   -   Country of birth: 
-   -   Country of citizenship:
-   -   Type of US visa:
-   -   Visa number:
-   -   Visa expiration date:
-   -   Passport issued by:
-   -   Passport Number:
-   -   Passport Expiration date:
-   -   Date of entry into the United States:
-
 ### Miscellaneous Documents
     
    -   Last year's federal, state tax returns (helpful but not required).
@@ -191,3 +179,26 @@ The itemized duduction items:
 
    - VA 529 plan contributions.
    - Long term insurance premium.
+
+### ITIN (Individual Taxpayer Identification Number) applicant (the person who needs ITIN) only:
+    
+   -   Country of birth: 
+   -   Country of citizenship:
+   -   Type of US visa:
+   -   Visa number:
+   -   Visa expiration date:
+   -   Passport issued by:
+   -   Passport Number:
+   -   Passport Expiration date:
+   -   Date of entry into the United States:
+
+### NONRESIDENT ONLY:
+
+- Are you citizen of India (for US-India tax treaty)?
+- Are you citizen of China (for US-China tax treaty)?
+
+- What is your first entry to US [very first time as a student]?
+- What is the visa status (for example, F-1, H-1B) in each year?
+- If status changed, the date of change. For example, “10/01/2016 from F-1 to H-1B.”
+- How many full days have you stayed in US in 2017, 1016, 2015?
+- Did you file last year? If so what form used (1040 or 1040NR)?
