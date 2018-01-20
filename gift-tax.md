@@ -26,4 +26,9 @@ When accumulated amount (after annual exclusion) is more than life time exclusio
 - Gift for medical purpose paid directly to hospital and nursing home needs not report
 - Gift for education paid directly to institution needs not report
 
-P.S. A "U.S. person" who has received more than $100,000 from a nonresident (your parent as an example) needs to file _Form 3520_.
+P.S. _A "U.S. person"_ who received more than $100,000 from _a nonresident_ (your parent as an example) needs to file _Form 3520_.
+The $100,000 limit is for the amount received by _one_ "U.S. person" from _one_ nonresident. However, if the givers are related,
+then they should be regarded as one person per [Instructions for Form 3520](https://www.irs.gov/pub/irs-pdf/i3520.pdf). Only the
+spouse who exceeded the limit needs for file form 3520. When both spouses exceeded the limit, they file separate forms 3520
+and "check the box if you are married and filing a joint 2017 income tax return, but you are filing separate Forms 3520" on the
+form.
