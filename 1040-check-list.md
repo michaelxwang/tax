@@ -174,11 +174,13 @@ The itemized duduction items:
             may be taxable or reportable.
    -   Federal, state, and local estimated income tax paid for the tax year.
    -   Employment taxes and other business taxes paid for the tax year.
-    
+
 ### VA specific deductions.
 
    - VA 529 plan contributions.
    - Long term insurance premium.
+
+## SPECIAL SITUATIONS
 
 ### ITIN (Individual Taxpayer Identification Number) applicant (the person who needs ITIN) only:
     
@@ -192,7 +194,7 @@ The itemized duduction items:
    -   Passport Expiration date:
    -   Date of entry into the United States:
 
-### NONRESIDENT ONLY:
+### Nonresident
 
 - Are you citizen of India (for US-India tax treaty)?
 - Are you citizen of China (for US-China tax treaty)?
@@ -202,3 +204,21 @@ The itemized duduction items:
 - If status changed, the date of change. For example, “10/01/2016 from F-1 to H-1B.”
 - How many full days have you stayed in US in 2017, 1016, 2015?
 - Did you file last year? If so what form used (1040 or 1040NR)?
+
+### Foreign earned income exclusion
+
+- Your foreign address including postal code:
+- Employer’s foreign address:
+- Employer’s U.S. address if it has one:
+- Income earned in U.S. dollars:
+- Foreign residency first established?
+- The last year you filed foreign earned income exclusion (Form 2555):
+- Of what country are you a citizen/national?
+- Do you pay income tax to foreign country on the foreign earned income?
+- Find a period of 12 months in a row starting or ending in 2017
+  during which you physically present in a foreign country or countries for at least 330 full days
+  and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
+
+  - 11/01/2016 - 06/31/2017 in China
+  - 07/01/2017 - 07/15/2017 in U.S., earned $0
+  - 07/16/2017 - 10/31/2017 in China
