@@ -117,7 +117,7 @@ The itemized duduction items:
 
 ### Other separately accounted expenses
     
-   -   Health savings accounts (1099-SA and 5498-SA, or equivalent information on contribution amount by yourself and distribution amount (spent)).
+   -   Health Savings Accounts (HSA, please provide 1099-SA. Also please provide 5498-SA or or other document showing contribution amount made by yourself besides paycheck deduction).
    -   Adoption expenses.
    -   Alimony paid.
    -   Moving expenses.
@@ -196,29 +196,28 @@ The itemized duduction items:
 
 ### Nonresident
 
-- Are you citizen of India (for US-India tax treaty)?
-- Are you citizen of China (for US-China tax treaty)?
-
-- What is your first entry to US [very first time as a student]?
-- What is the visa status (for example, F-1, H-1B) in each year?
-- If status changed, the date of change. For example, "10/01/2016 from F-1 to H-1B."
-- How many full days have you stayed in US in 2017, 1016, 2015?
-- Did you file last year? If so what form used (1040 or 1040-NR)?
+   - Are you citizen of India (for US-India tax treaty)?
+   - Are you citizen of China (for US-China tax treaty)?
+   - What is your first entry to US [very first time as a student]?
+   - What is the visa status (for example, F-1, H-1B) in each year?
+   - If status changed, the date of change. For example, "10/01/2016 from F-1 to H-1B."
+   - How many full days have you stayed in US in 2017, 1016, 2015?
+   - Did you file last year? If so what form used (1040 or 1040-NR)?
 
 ### Foreign earned income exclusion
 
-- Your foreign address including postal code:
-- Employer's foreign address:
-- Employer's U.S. address if it has one:
-- Income earned in U.S. dollars:
-- Foreign residency first established?
-- The last year you filed foreign earned income exclusion (Form 2555):
-- Of what country are you a citizen/national?
-- Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-- Find a period of 12 months in a row starting or ending in 2017
-  during which you physically present in a foreign country or countries for at least 330 full days
-  and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
+   - Your foreign address including postal code:
+   - Employer's foreign address:
+   - Employer's U.S. address if it has one:
+   - Income earned in U.S. dollars:
+   - Foreign residency first established?
+   - The last year you filed foreign earned income exclusion (Form 2555):
+   - Of what country are you a citizen/national?
+   - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
+   - Find a period of 12 months in a row starting or ending in 2017
+during which you physically present in a foreign country or countries for at least 330 full days
+and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
 
-  - 11/01/2016 - 06/31/2017 in China
-  - 07/01/2017 - 07/15/2017 in U.S., earned $0
-  - 07/16/2017 - 10/31/2017 in China
+     - 11/01/2016 - 06/31/2017 in China
+     - 07/01/2017 - 07/15/2017 in U.S., earned $0
+     - 07/16/2017 - 10/31/2017 in China
