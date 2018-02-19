@@ -214,10 +214,7 @@ The itemized duduction items:
    - The last year you filed foreign earned income exclusion (Form 2555):
    - Of what country are you a citizen/national?
    - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-   - Find a period of 12 months in a row starting or ending in 2017
-during which you physically present in a foreign country or countries for at least 330 full days
-and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
-
+   - Find a period of 12 months in a row starting or ending in 2017 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
      - 11/01/2016 - 06/31/2017 in China
      - 07/01/2017 - 07/15/2017 in U.S., earned $0
      - 07/16/2017 - 10/31/2017 in China
