@@ -218,3 +218,13 @@ The itemized duduction items:
      - 11/01/2016 - 06/31/2017 in China
      - 07/01/2017 - 07/15/2017 in U.S., earned $0
      - 07/16/2017 - 10/31/2017 in China
+
+### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938
+
+If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements), please provide information on EACH of the accounts as follows:
+
+   - Bank name
+   - Address in English including postal code
+   - Account number
+   - Maximum value of account during calendar year converted to US dollars
+   - Income (interest, dividend) generated from the account
