@@ -32,3 +32,9 @@ then they should be regarded as one person per [Instructions for Form 3520](http
 spouse who exceeded the limit needs for file form 3520. When both spouses exceeded the limit, they file separate forms 3520
 and "check the box if you are married and filing a joint 2017 income tax return, but you are filing separate Forms 3520" on the
 form.
+
+```
+Michael Wang, Enrolled Agent.
+Admitted to Practice Before the IRS.
+Tax Professional Since 2005, All States.
+```
