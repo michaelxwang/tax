@@ -7,7 +7,7 @@ Please provide the following info for EACH person unless otherwise noted.
 -  First name
 -  Middle name
 -  Last name
--  Social Security Numbers (or Tax IDs), see ITIN section if no SSN
+-  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Date of Birth
 -  Address (taxpayers only, not dependent)
 -  Telephone number (taxpayers only, not dependent)
@@ -201,20 +201,20 @@ The itemized duduction items:
 
 - What is your first entry to US [very first time as a student]?
 - What is the visa status (for example, F-1, H-1B) in each year?
-- If status changed, the date of change. For example, “10/01/2016 from F-1 to H-1B.”
+- If status changed, the date of change. For example, "10/01/2016 from F-1 to H-1B."
 - How many full days have you stayed in US in 2017, 1016, 2015?
-- Did you file last year? If so what form used (1040 or 1040NR)?
+- Did you file last year? If so what form used (1040 or 1040-NR)?
 
 ### Foreign earned income exclusion
 
 - Your foreign address including postal code:
-- Employer’s foreign address:
-- Employer’s U.S. address if it has one:
+- Employer's foreign address:
+- Employer's U.S. address if it has one:
 - Income earned in U.S. dollars:
 - Foreign residency first established?
 - The last year you filed foreign earned income exclusion (Form 2555):
 - Of what country are you a citizen/national?
-- Do you pay income tax to foreign country on the foreign earned income?
+- Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
 - Find a period of 12 months in a row starting or ending in 2017
   during which you physically present in a foreign country or countries for at least 330 full days
   and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
