@@ -41,9 +41,9 @@ You may ask: what can I do about this? Well if you are single, you cannot do any
 
 Suppose the spouse A is MD resident and the spouse B is CA resident, and you do not want to A's income to inflate CA tax, you need to file a joint return for federal, and perhaps a joint return for MD, but a separate return for CA.
 
-Most likely you cannot do this with a single return, you need to create separate return for spouse B but only file for state only. The federal return is an "as if" return if the spouse B file separately used for state but not actually filed.
+Most likely you cannot do this with a single return, you need to create separate return for spouse B but only file for state only, in which federal return is an "as if" return used for state only but will not actually be filed.
 
-If your software does not allow you to file two returns with the same primary social security number, you need to switch the positions of the spouses to make it work in the joint return.
+If your software does not allow you to create two returns with the same primary social security number, you need to switch the positions of the spouses in the joint return to make it work.
 
 ```
 Michael Wang, Enrolled Agent.
