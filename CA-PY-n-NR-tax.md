@@ -21,13 +21,19 @@ In general, suppose A is California income, and B is income out side of Californ
 CA tax = tax_of(A+B) * A/(A+B)
 ```
 
-We have just illustrated that:
+In general since the more your earn, the more tax you pay, so we have:
+
+```
+tax_of(A+B)/(A+B) > tax_of(A)/A
+```
+
+or
 
 ```
 tax_of(A+B) * A/(A+B) > tax_of(A)
 ```
 
-I believe it can be mathematically proven that it is generally true when `tax_of()` is an increasing function.
+So we can see by lumping other states' income in the formula, California is able to collect more tax. 
 
 You may ask: what can I do about this? Well if you are single, you cannot do anything. However if you are married, and one spouse is a nonresident, you can choose to file federal jointly, and California separately because the [California law](https://www.ftb.ca.gov/individuals/filing-status-information.shtml) states:
 
@@ -50,4 +56,5 @@ Michael Wang, Enrolled Agent.
 Admitted to Practice Before the IRS.
 Tax Professional Since 2005, All States.
 mwang@unixlabplus.com
+Wechat ID: puravidawechat
 ```
