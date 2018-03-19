@@ -59,9 +59,9 @@ as ordinary income.
 
 Example:
 
-Market price: $100
-Option purchase price: $70
-Sale price: $120
+- Market price: $100
+- Option purchase price: $70
+- Sale price: $120
 
 The total gain is $50 ($120 - $70), but
 you pay tax as ordinary income on $30 ($100 - $70),
@@ -82,9 +82,9 @@ FMV value.
 
 Example:
 
-FMV = 100
-Purchase price: 85
-Sale price: 90
+- FMV = 100
+- Purchase price: 85
+- Sale price: 90
 
 Ordinary income: 100 - 85 = 15
 Capital gain: 90 - 100 = -10
@@ -97,9 +97,9 @@ Qualifying disposition realizes ordinary income up to the gain.
 
 Example:
 
-FMV = 100
-Purchase price: 85
-Sale price: 90
+- FMV = 100
+- Purchase price: 85
+- Sale price: 90
 
 Ordinary income: $90 - $85 = $5 (up to the gain)
 Loss: 90 - 90 = 0
@@ -130,9 +130,9 @@ the taxes.
 
 Example:
 
-Number of stocks: 100
-Purchase price: $0
-Market value: $90
+- Number of stocks: 100
+- Purchase price: $0
+- Market value: $90
 
 $9,000 ($90 * 100) will be taxed as ordinary income. Suppose 20%
 of tax needs to be paid, then you need either to come up with
@@ -152,6 +152,15 @@ Suppose after many years, you want to sell the rest of 80 shares
 and you forgot that you have paid taxes up to $90 and the company does
 not provide you with the proper paperwork, you will
 end up paying taxes again.
+
+Documents needed for the cost basis adjustment:
+
+- Form 3921 from employer if you have ISO or RSU.
+- Form 3922 from employer if you have sold stocks from ESPP.
+
+Those are official forms, but I have seen many other forms of forms, and some
+of them are even from the brokerage. It will suffice as long as the amount
+that has been added and taxed on W-2 is documented.
 
 ```
 Michael Wang, EA.
