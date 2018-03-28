@@ -36,8 +36,8 @@ Stock, investment interest expense, and other _carryover_ items, continued depre
 
 ### Multi-states info
 
-If you have lived in multiple states, please list where you were for the year
-in a format shown below:
+If you have lived in multiple states or travelled out of the country, please list where you were for the entire year
+in a format shown below, accurate to the state or country:
 
    -   01/01 - 05/15 MD
    -   05/16 - 08/15 China
@@ -120,7 +120,7 @@ The itemized deduction items:
    -   Health Savings Accounts (HSA, please provide 1099-SA. Also please provide 5498-SA or or other document showing contribution amount made by yourself besides paycheck deduction).
    -   Adoption expenses.
    -   Alimony paid.
-   -   Moving expenses.
+   -   Moving expenses: if you drove, you can use mileage plus hotel; if you flew, the air ticket.
 
 ### Child care
     
