@@ -21,7 +21,7 @@ In general, suppose A is California income, and B is income out side of Californ
 CA tax = tax_of(A+B) * A/(A+B)
 ```
 
-In general since the more your earn, the more tax you pay, so we have:
+Since the more your earn, the more tax you pay, so we have:
 
 ```
 tax_of(A+B)/(A+B) > tax_of(A)/A
