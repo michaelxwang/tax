@@ -201,7 +201,7 @@ The itemized deduction items:
    - What is your first entry to US [very first time as a student]?
    - What is the visa status (for example, F-1, H-1B) in each year?
    - If status changed, the date of change. For example, "10/01/2016 from F-1 to H-1B."
-   - How many full days have you stayed in US in 2017, 1016, 2015?
+   - How many days (including partial days) have you stayed in US in 2017, 1016, 2015?
    - Did you file last year? If so what form used (1040 or 1040-NR)?
 
 ### Foreign earned income exclusion
