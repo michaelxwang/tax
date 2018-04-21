@@ -56,7 +56,7 @@ to file penalty is reduced by the amount of fail to pay penalty [IRC Section 665
 The interest used in calculation is the same
 as in estimated tax penalty determined quarterly, but
 compounded daily. As the calculation involves the "advanced" math,
-[Rev. Proc. 95-17](https://www.dol.gov/sites/default/files/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/factortable1.pdf)
+[Rev. Proc. 95-17](https://www.section6166.com/pdf_files/Rulings_Etc/Rev_Proc_95-17v2.pdf)
 provided the _Factor Tables_ to calculated the interest of a quarter
 for different interest rate, number of days of the quarter the tax
 was due, and whether the year is leap year or not.
