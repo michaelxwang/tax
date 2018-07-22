@@ -28,17 +28,17 @@ tax payment, which is the lesser of 90% of the current year's tax
 or (100%|110%) of last year's tax (with details below for 100% vs 110%).
 
 Even the penalty is not a huge amount, it is better to avoid it.
-The penalty will not apply if you satisfy either of the following
+The penalty will not apply if you satisfy one of the following
 conditions (see [form 2210](https://www.irs.gov/pub/irs-pdf/f2210.pdf)
 and [form 2210 instruction](https://www.irs.gov/pub/irs-pdf/f1040.pdf)):
 
-- `The withholding > current year tax * 90%`
+- `The withholding >= current year tax * 90%`
 - `The withholding > current year tax - $1,000`
-- `The withholding > last year's tax * X`, where `X = 110%` if the
+- `The withholding >= last year's tax * X`, where `X = 110%` if the
 adjusted gross income on your previous year's return is over $150,000,
 or over $75,000 if you are married filing separately, otherwise `X = 100%`.
-- You had no tax liability for prior year and you were a U.S. citizen
-or resident alien for the entire year.
+A special case is that you had no tax liability for prior year and
+you were a U.S. citizen or resident alien for the entire year.
 
 The first two condition is hard to follow as it request to know the
 current year's tax which you don't until you complete the return.
