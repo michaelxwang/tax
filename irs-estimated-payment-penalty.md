@@ -70,7 +70,7 @@ only, not estimated payment made on
 The states have similar conditions to avoid penalties, for example,
 you do not pay penalty for
 [VA](https://tax.virginia.gov/sites/default/files/vatax-pdf/2017-form-760c-instructions.pdf)
-if you satisfy the following conditions:
+if you satisfy one of the following conditions:
 
 - You have paid 90% of the tax you owe, or the tax owed is less than $150, for the current year.
 - You have paid 100% (always 100% regardless of your income) of the tax you owed for the previous tax year.
