@@ -1,8 +1,7 @@
 ## Analysis of family economics of vice president Mike Pence
 
 The tax history project has compiled
-an archive of [the presidential tax returns]
-(http://www.taxhistory.org/www/website.nsf/Web/PresidentialTaxReturns),
+an archive of [the presidential tax returns](http://www.taxhistory.org/www/website.nsf/Web/PresidentialTaxReturns),
 in which we have the tax returns of Pence family from 2006 to 2015. By
 going through these returns, we can see his family financial situation,
 and the changes they had gone through these 10 years. All the information
