@@ -25,8 +25,8 @@ had a one time speaking fee of \$1,000.
 They owned a house. They paid property tax \$6,172. Assuming the real
 estate tax rate was 1%, the value of their house was around \$600K. They
 paid the mortgage interest \$32,151. Assuming the mortgage interest is
-5%, they has a debt of \$640K. There wasn't any equity in the house, or perhaps a little under water. They had
-a cash donation \$11,986 this year, and it was normally between \$10K
+5%, they has a debt of \$640K. There wasn't much equity in the house, or perhaps a little under water. They had
+a cash donation \$11,986 this year, and it had been normally between \$10K
 and \$20K in good years, and less than \$10K in bad years.
 
 They managed to get \$500 child credit out of the \$3,000 maximum possible.
@@ -39,7 +39,7 @@ from taxable income because it had been rolled over within 60 days. The
 amended return generated a \$430 additional refund. This amendment was
 not required to file, either the \$430 was important to Pence family,
 or it was important to the accountant to get things right. It was revealed
-that the accountant charged \$670 for the tax return for the prior year,
+that the accountant charged \$670 for tax return preparation for the prior year,
 which was a simple return. Many of my clients do not know the market
 price of the tax returns, now they should realize that I represent the
 conscience of this profession.
@@ -53,8 +53,8 @@ turned 17 in 2010, and Audrey turned 17 in 2011.
 ### 2012
 
 The year 2012 saw a major change of Pence family. The address on the
-return was Indiana, and the occupation of Mr. Pence was changed from
-legislator to governor, but this was his address and occupation in 2013,
+return was Indianapolis, Indiana, and the occupation of Mr. Pence was changed from
+legislator to governor, but I believe this was his address and occupation in 2013,
 as Mr. Pence still had W2 from house of representative, and Mrs. Pence
 from Immanuel Christian School in Springfield, VA. Their combined wage
 was \$164K which was almost the same as in 2006.
@@ -64,21 +64,21 @@ the mortgage interest was \$19,844 (vs \$26,546 in 2011) were lower this
 year, as they sold the house next year.
 
 Both Michael J. and Charlotte were in college, and both claimed Hope /
-American opportunity credit. Michael J. went to Purdue University in
+American opportunity education credit. Michael J. went to Purdue University in
 Indiana, and Charlotte went to Depaul University in Illinois. As Michael
-J. (21) was two years older than Charlotte (19), I am certain if Michael
+J. (21) was two years older than Charlotte (19), I am not certain if Michael
 J. did not go to college directly, or did not claim the credit in prior
 years. The maximum education credit for two students were \$5,000, due
-to their "high" income, the credit was reduced to \$3,130. Many of my
+to their relatively high income, the credit was reduced to \$3,130. Many of my
 clients could not get any credit at all.
 
 ### 2013
 
 2013 was the year that Mr. Pence changed job because they had a excess
 social security tax refund of \$287, which indicated he had more than one
-employer. Cold knowledge: the social security tax has an upper limit,
+employer. (Cold knowledge: the social security tax has an upper limit,
 when one has two or more employers, combined they may withhold social
-security tax above the upper limit, and the excess will be refunded.
+security tax above the upper limit, and the excess will be refunded.)
 
 The new job as governor pays less, the family income was reduced to
 \$117K (vs \$164K in prior year). In this year, the youngest daughter
@@ -86,12 +86,11 @@ Audrey also went to college, Northeastern University in MA. Due to
 their decreased income, they got the full \$7,500 education credit,
 maximum possible credit for three students.
 
-They sold the house in VA because they deducted the remaining mortgage
-points (\$1,716) which they amortized in previously (\$91). If they
-had not sold the house, it would take them 18.86 years (1716/91) to
-recover the mortgage points, which represents the remaining life of
-the loan. From this we can infer that they took a 30 year loan in 2001
-(2013+18-30). Both of the property tax (\$1,928) and mortgage interest
+They must have sold the house in VA because they were able to deduct
+mortgage points (\$1,716), which represents the sum of 18.86 years' amortized amount (\$91)
+which they had deducted in prior years. 
+From this we can infer that they took a 30-year loan in the end of 2001.
+Both of the property tax (\$1,928) and mortgage interest
 (\$3,273) were low, they must had sold the house in the early part of
 the year. This was the last year they had house in the return, they must
 had lived in the governor's mansion provided by the state of Indiana.
