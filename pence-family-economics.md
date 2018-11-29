@@ -14,7 +14,7 @@ In 2006, Michael R. Pence family filed a joint return with his wife Karen
 Pence claiming three children, the oldest Michael J, the middle daughter
 Charlotte, and youngest daughter Audrey. all under 17. They live in my
 neighborhood Arlington, VA. Mr. Pence was a member of congress (house
-of representative), and Mrs. Pence is a teacher.
+of representative), and Mrs. Pence was a teacher.
 
 Their combined wage was \$161K. As revealed in later years, Mr. Pence
 earned about \$150K and Mrs. Pence earned \$10K and \$30K depending how
@@ -23,31 +23,31 @@ much she worked. Mrs. Pence had self employment taxable income of \$400
 had a one time speaking fee of \$1,000.
 
 They owned a house. They paid property tax \$6,172. Assuming the real
-estate tax rate was 1%, the value of their house is around \$600K. They
+estate tax rate was 1%, the value of their house was around \$600K. They
 paid the mortgage interest \$32,151. Assuming the mortgage interest is
-5%, they has a debt of \$640K. They are a little under water. They had
-a cash donation \$11,986 this year, and it is normally between \$10K
+5%, they has a debt of \$640K. There wasn't any equity in the house, or perhaps a little under water. They had
+a cash donation \$11,986 this year, and it was normally between \$10K
 and \$20K in good years, and less than \$10K in bad years.
 
 They managed to get \$500 child credit out of the \$3,000 maximum possible.
 
 ### 2007
 
-The only thing that is worth noting was that they filed an amended
+The only thing that was worth noting was that they filed an amended
 return for the year 2007 to remove the \$1,194 retirement distribution
 from taxable income because it had been rolled over within 60 days. The
 amended return generated a \$430 additional refund. This amendment was
 not required to file, either the \$430 was important to Pence family,
-or it is important to the accountant to get things right. It is revealed
+or it was important to the accountant to get things right. It was revealed
 that the accountant charged \$670 for the tax return for the prior year,
-which is a simple return. Many of my clients do not know the market
-price of the tax return, now they should realize that I represent the
+which was a simple return. Many of my clients do not know the market
+price of the tax returns, now they should realize that I represent the
 conscience of this profession.
 
 ### 2008 - 2011
 
 Life went on went on eventlessly from the perspective of the tax returns,
-but challenge is under way as Michael J. turned 17 in 2008, Charlotte
+but challenges were under way as Michael J. turned 17 in 2008, Charlotte
 turned 17 in 2010, and Audrey turned 17 in 2011.
 
 ### 2012
@@ -74,7 +74,7 @@ clients could not get any credit at all.
 
 ### 2013
 
-2013 is the year that Mr. Pence changed job because they had a excess
+2013 was the year that Mr. Pence changed job because they had a excess
 social security tax refund of \$287, which indicated he had more than one
 employer. Cold knowledge: the social security tax has an upper limit,
 when one has two or more employers, combined they may withhold social
@@ -123,7 +123,7 @@ I believe they did not make donation large enough to itemize.
 
 ### 2015
 
-2015 is the last year for which the tax return is available. In this
+2015 was the last year for which the tax return was available. In this
 year, the income was similar to last year, \$109,807. Mrs. Pence started
 a business, "That's My Towel Charm Inc", which many people considered
 as silly. The business has a loss of \$3,407.
@@ -131,10 +131,10 @@ as silly. The business has a loss of \$3,407.
 Again they took a distribution of \$9,370. The amount seems odd, it
 is likely that was all the money left in the account of Mr. Pence,
 considering that Mrs. Pence had only \$1,540 in her ROTH IRA. I do not
-understand Why it is considered as normal distribution (code 7) since
+understand Why it was considered as normal distribution (code 7) since
 Mrs. Pence has not reached 59.5 years old.
 
-This is the year in which Michael J. is no longer a dependent, because
+This was the year in which Michael J. was no longer a dependent, because
 he has reached 24. They got the maximum education credit of \$5,000 for
 the two daughters. They were also able to claim the maximum student loan
 interest deduction \$2,500.
@@ -148,19 +148,19 @@ a lot of more car tax.
 ### Postscript
 
 If we use Alternative Minimum Tax (AMT) as a dividing line between
-upper middle class and middle class, the Pence family is a solid middle
+upper middle class and middle class, the Pence family was a solid middle
 class. They were able to get in part or in whole all the deductions
-and credit. Like many middle classes, they have to take mortgage loan
+and credits. Like many middle classes, they had to take mortgage loan
 and education loan. They struggled when their children started to go
 to college.
 
 The family's economic condition must have dramatically improved since
-Mike Pence found a new job as the vice president of United States,
+Mike Pence took the new job as the vice president of United States,
 which paid him \$243,500 (2018), almost doubled his salary as governor,
-and the government also provides free housing. However,
+and includes free housing. However,
 we do not have a tax return to see this. As Mr. Trump decides not to
 release his tax returns, I believe Mr. Pence does not want to embarrass
-him by releasing his returns alone.
+his boss by releasing his returns alone.
 
 Many new immigrants do not know their economic position in the US,
 you may want compare your family income with that of Pence family. It
