@@ -91,9 +91,9 @@ mortgage points (\$1,716), which represents the sum of 18.86 years' amortized am
 which they had deducted in prior years. 
 From this we can infer that they took a 30-year loan in the end of 2001.
 Both of the property tax (\$1,928) and mortgage interest
-(\$3,273) were low, they must had sold the house in the early part of
+(\$3,273) were low, they must have sold the house in the early part of
 the year. This was the last year they had house in the return, they must
-had lived in the governor's mansion provided by the state of Indiana.
+lived in the governor's mansion provided by the state of Indiana.
 
 This year the Mr. Pence starts to contribute to HSA, which meant they
 had chosen a high deductible medical insurance plan. They contributed
@@ -101,10 +101,10 @@ the maximum amount \$6,450, and had \$1,200 out of pocket medical expense.
 
 ### 2014
 
-The family's income continue to fell in 2014 down to \$106K. Mrs. Pence's
+The family's income continue to fall in 2014 down to \$106K. Mrs. Pence's
 business didn't help much with gross income being only \$845, and net
 income \$634. To help making the ends meet, they distributed \$40,000
-from pension. I assume they started to take student loan, as they claimed
+from pension. They also started to take student loan, as they claimed
 student loan interest deduction of \$952.
 
 Normally one has to pay a 10% penalty for early distribution, but they
@@ -128,20 +128,20 @@ a business, "That's My Towel Charm Inc", which many people considered
 as silly. The business has a loss of \$3,407.
 
 Again they took a distribution of \$9,370. The amount seems odd, it
-is likely that was all the money left in the account of Mr. Pence,
+is likely that was all the money left in the retirement account of Mr. Pence,
 considering that Mrs. Pence had only \$1,540 in her ROTH IRA. I do not
 understand Why it was considered as normal distribution (code 7) since
-Mrs. Pence has not reached 59.5 years old.
+Mr. Pence had not reached 59.5 years old.
 
 This was the year in which Michael J. was no longer a dependent, because
-he has reached 24. They got the maximum education credit of \$5,000 for
+he had reached 24. They got the maximum education credit of \$5,000 for
 the two daughters. They were also able to claim the maximum student loan
 interest deduction \$2,500.
 
 Despite of the student loan, and the reliance on the retirement savings,
 they donated \$8,723 which they deducted from the return. Also deducted
 is the personal property tax \$109 on the car, which was modest or even
-old that Mrs. Pence used. Many of my clients had luxury cars and paid
+old that must be used by Mrs. Pence. Many of my clients had luxury cars and paid
 a lot of more car tax.
 
 ### Postscript
@@ -155,7 +155,7 @@ to college.
 
 The family's economic condition must have dramatically improved since
 Mike Pence took the new job as the vice president of United States,
-which paid him \$243,500 (2018), almost doubled his salary as governor,
+which paid him \$243,500 (2018), more than doubled his salary as governor,
 and includes free housing. However,
 we do not have a tax return to see this. As Mr. Trump decides not to
 release his tax returns, I believe Mr. Pence does not want to embarrass
