@@ -103,7 +103,7 @@ The itemized deduction items:
    -   Closing documents if you bought, sold, or re-financed your home or other real estate ([Closing disclosure](https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf), [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf)).
    -   Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
    -   Energy property based on manufacturer's certification document.
-   -   Personal Property Tax (car tax).
+   -   Personal Property Tax (car tax). In California, vehicle license fee is deductible. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional transit authority (RTA) tax is deductible.
    -   Gifts to charity (cash and non-cash).
    -   Un-reimbursement expenses related to volunteer work.
    -   Investment expenses.
@@ -172,10 +172,12 @@ The itemized deduction items:
    -   Federal, state, and local estimated income tax paid for the tax year.
    -   Employment taxes and other business taxes paid for the tax year.
 
-### VA specific deductions.
+### State specific deductions.
 
    - VA 529 plan contributions.
-   - Long term insurance premium.
+   - VA Long term insurance premium.
+   - MA rent paid.
+   - NJ rent for low income.
 
 ## SPECIAL SITUATIONS
 
