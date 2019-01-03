@@ -60,7 +60,7 @@ If you have lived in multiple states, please list where you were for the entire 
 ### Financial Assets
     
    -   Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)).
-   -   Dividend income statements (1099-DIV).
+   -   Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
    -   Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
    -   RSU (Restricted Stock Unit): [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3921 from employer.
    -   ESPP (Employee Stock Purchase Plan) sale: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3922 from employer.
