@@ -231,3 +231,11 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
 ### Resident received more than $100,000 from nonresident
 
 - A list of date and amount of gift
+
+```
+Michael Wang, EA
+Tax Professional Since 2005, All States.
+Admitted to Practice Before the IRS.
+Email: mwang@unixlabplus.com
+Wechat ID: puravidawechat
+```
