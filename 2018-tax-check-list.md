@@ -237,14 +237,14 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
 - You：Prepare your documents according to this list
 - I：Send you a secure link to upload your files
 - You: Upload your files
-- I：Provide a price
-- You：Agree with the price
+- I：Provide a fixed cost
+- You：Agree with the cost
 - I：Prepare the return
 - You：Verify your return
 - I：Send electronic signature request
 - You：Sign your name electronically
 - I：Submit your return electronically
-- You：Pay the tax preparation fee which we agreed upon
+- You：Pay me as we agreed
 
 ```
 Michael Wang, EA
