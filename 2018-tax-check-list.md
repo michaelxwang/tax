@@ -174,10 +174,11 @@ The itemized deduction items:
 
 ### State specific deductions.
 
+   - MA rent paid: the total amount for the year, name, address, and telephone number of the landlord.
+   - MA [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
+   - NJ rent for low income.
    - VA 529 plan contributions.
    - VA Long term insurance premium.
-   - MA rent paid.
-   - NJ rent for low income.
 
 ## SPECIAL SITUATIONS
 
