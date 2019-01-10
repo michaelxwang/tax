@@ -40,9 +40,7 @@ amended return generated a \$430 additional refund. This amendment was
 not required to file, either the \$430 was important to Pence family,
 or it was important to the accountant to get things right. It was revealed
 that the accountant charged \$670 for tax return preparation for the prior year,
-which was a simple return. Many of my clients do not know the market
-price of the tax returns, now they should realize that I represent the
-conscience of this profession.
+which was a simple return.
 
 ### 2008 - 2011
 
