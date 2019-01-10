@@ -233,8 +233,7 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
 
 - A list of date and amount of gift
 
-I hope this check list helps you to prepare your tax documents no matter
-how you file your return.
+I hope this check list helps you to prepare your tax documents.
 
 [comment]: # (If you choose to file with me, I will prepare your return)
 [comment]: # (_correctly_ according to United States tax law and obtain all the refunds that you are eligible for.)
