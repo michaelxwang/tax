@@ -233,29 +233,31 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
 
 - A list of date and amount of gift
 
-I hope this check list helps you to prepare your tax returns no matter
-where you do them. If you do them with me, I will do your return
-_correctly_ and get all the refunds that you are eligible to get.
-My service includes answering all tax related questions for a year
-and life time guarantee for the return. If there is an error due to
-my oversight, I will restore it to the correct state at my own expenses. 
-My cost is about half of what charged by a tax reporting company. Here is
-my work flow:
+I hope this check list helps you to prepare your tax documents no matter
+how you file your return.
 
-- You prepare your documents according to this list
-- I send you a secure link to upload your files
-- You upload your files
-- I provide a fixed cost
-- You agree with the cost
-- I prepare the returns
-- You verify returns
-- I send electronic signature request
-- You sign your name electronically
-- I submit your return electronically
-- You pay me for the service as we agreed
+[//] (If you choose to file with me, I will prepare your return)
+[//] (_correctly_ according to United States tax law and obtain all the refunds that you are eligible for.)
+[//] (My service includes answering _all_ tax related questions until next year, )
+[//] (and life time guarantee for the return. If there is an error due to)
+[//] (my oversight, I will restore it to the correct state at my own expense. )
+[//] (My filing fee is about half of what charged by a tax reporting company. Here is)
+[//] (my work flow:)
+
+[//] (- You prepare your documents according to this list)
+[//] (- I send you a secure link to upload your files)
+[//] (- You upload your files)
+[//] (- I provide a fixed cost)
+[//] (- You agree with the cost)
+[//] (- I prepare the returns)
+[//] (- You verify returns)
+[//] (- I send electronic signature request)
+[//] (- You sign your name electronically)
+[//] (- I submit your return electronically)
+[//] (- You pay me for the service as we agreed)
 
 ```
-Michael Wang, EA
+Michael Wang, [Enrolled agant](https://en.wikipedia.org/wiki/Enrolled_agent)
 Tax Professional Since 2005, All States.
 Admitted to Practice Before the IRS.
 Email: mwang@unixlabplus.com
