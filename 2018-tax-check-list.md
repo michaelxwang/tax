@@ -236,30 +236,28 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
 I hope this check list helps you to prepare your tax documents no matter
 how you file your return.
 
-[comment] # (If you choose to file with me, I will prepare your return)
-[comment] # (_correctly_ according to United States tax law and obtain all the refunds that you are eligible for.)
-[comment] # (My service includes answering _all_ tax related questions until next year, )
-[comment] # (and life time guarantee for the return. If there is an error due to)
-[comment] # (my oversight, I will restore it to the correct state at my own expense. )
-[comment] # (My filing fee is about half of what charged by a tax reporting company. Here is)
-[comment] # (my work flow:)
+[comment]: # (If you choose to file with me, I will prepare your return)
+[comment]: # (_correctly_ according to United States tax law and obtain all the refunds that you are eligible for.)
+[comment]: # (My service includes answering _all_ tax related questions until next year, )
+[comment]: # (and life time guarantee for the return. If there is an error due to)
+[comment]: # (my oversight, I will restore it to the correct state at my own expense. )
+[comment]: # (My filing fee is about half of what charged by a tax reporting company. Here is)
+[comment]: # (my work flow:)
 
-[comment] # (- You prepare your documents according to this list)
-[comment] # (- I send you a secure link to upload your files)
-[comment] # (- You upload your files)
-[comment] # (- I provide a fixed cost)
-[comment] # (- You agree with the cost)
-[comment] # (- I prepare the returns)
-[comment] # (- You verify returns)
-[comment] # (- I send electronic signature request)
-[comment] # (- You sign your name electronically)
-[comment] # (- I submit your return electronically)
-[comment] # (- You pay me for the service as we agreed)
+[comment]: # (- You prepare your documents according to this list)
+[comment]: # (- I send you a secure link to upload your files)
+[comment]: # (- You upload your files)
+[comment]: # (- I provide a fixed cost)
+[comment]: # (- You agree with the cost)
+[comment]: # (- I prepare the returns)
+[comment]: # (- You verify returns)
+[comment]: # (- I send electronic signature request)
+[comment]: # (- You sign your name electronically)
+[comment]: # (- I submit your return electronically)
+[comment]: # (- You pay me for the service as we agreed)
 
-```
-Michael Wang, [Enrolled agant](https://en.wikipedia.org/wiki/Enrolled_agent)
-Tax Professional Since 2005, All States.
-Admitted to Practice Before the IRS.
-Email: mwang@unixlabplus.com
-Wechat ID: puravidawechat
-```
+- Michael Wang, [Enrolled agant](https://en.wikipedia.org/wiki/Enrolled_agent)
+- Tax Professional Since 2005, All States.
+- Admitted to Practice Before the IRS.
+- Email: mwang@unixlabplus.com
+- Wechat ID: puravidawechat
