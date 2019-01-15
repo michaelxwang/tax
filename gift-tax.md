@@ -9,7 +9,7 @@ If you are
 
 who
 
-- gives a gift of present interest more than annual exclusion $14,000 (2017) to _one_ person _or_  
+- gives a gift of present interest more than annual exclusion ($14,000 for 2013-2017, $15,000 for 2018) to _one_ person _or_  
 - gives a gift of future interest of amount _or_ 
 - makes elects to split gift with spouse (each has a annual exclusion amount)
 
@@ -17,12 +17,12 @@ Then you need file form 709, but filing gift return does not mean that you need 
 
 ### When to pay tax?
 
-When accumulated amount (after annual exclusion) is more than life time exclusion $5,490,000 (2017), you pay gift tax at 40% (2017) gift tax, and additional generation skip tax (40% as well, 2017) if gift is for a generation skip person (grand children and below).
+When accumulated amount (after annual exclusion) is more than life time exclusion ($5,490,000 for 2017, $11,180,000 for 2018), you pay gift tax at 40% (2017) gift tax, and additional generation skip tax (40% as well, 2017) if gift is for a generation skip person (grand children and below).
 
 ### How to report?
 
 - Charitable gift is fully excluded but need to report
-- Generation Skip gift needs separately reported becauase it is subject to additional GST tax.
+- Generation Skip gift needs separately reported because it is subject to additional GST tax.
 - Gift for medical purpose paid directly to hospital and nursing home needs not report
 - Gift for education paid directly to institution needs not report
 
@@ -34,7 +34,9 @@ and "check the box if you are married and filing a joint 2017 income tax return,
 form.
 
 ```
-Michael Wang, Enrolled Agent.
+Michael Wang, [Enrolled Agent](https://en.wikipedia.org/wiki/Enrolled_agent)
 Admitted to Practice Before the IRS.
 Tax Professional Since 2005, All States.
+Email: mwang@unixlabplus.com
+WeChat: puravidawechat
 ```
