@@ -119,7 +119,7 @@ The itemized deduction items:
    -   HSA (Health Savings Accounts): please provide [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) as well as [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) or account statement showing contribution amount _made separately by yourself besides paycheck deduction_.
    -   Adoption expenses.
    -   Alimony paid.
-   -   Moving expenses: if you drove, you can use mileage plus hotel; if you flew, the air ticket.
+   -   Moving expenses (for military move only): if you drove, you can use mileage plus hotel; if you flew, the air ticket.
 
 ### Child care
     
