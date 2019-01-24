@@ -255,7 +255,7 @@ I hope this check list helps you to prepare your tax documents.
 [comment]: # (- I submit your return electronically)
 [comment]: # (- You pay me for the service as we agreed)
 
-- Michael Wang, [Enrolled agant](https://en.wikipedia.org/wiki/Enrolled_agent)
+- Michael Wang, [Enrolled agent](https://en.wikipedia.org/wiki/Enrolled_agent)
 - Tax Professional Since 2005, All States.
 - Admitted to Practice Before the IRS.
 - Email: mwang@unixlabplus.com
