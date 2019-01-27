@@ -175,10 +175,13 @@ The itemized deduction items:
    -   Federal, state, and local estimated income tax paid for the tax year.
    -   Employment taxes and other business taxes paid for the tax year.
 
-### VA specific deductions.
+### State specific deductions.
 
+   - MA rent paid: the total amount for the year, name, address, and telephone number of the landlord.
+   - MA [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
+   - NJ rent for low income.
    - VA 529 plan contributions.
-   - Long term insurance premium.
+   - VA Long term insurance premium.
 
 ## SPECIAL SITUATIONS
 
@@ -228,3 +231,15 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
    - Account number
    - Maximum value of account during calendar year converted to US dollars
    - Income (interest, dividend) generated from the account
+
+### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
+
+- A list of date and amount of gift
+
+I hope this check list helps you to prepare your tax documents.
+
+- Michael Wang, [Enrolled agent](https://en.wikipedia.org/wiki/Enrolled_agent)
+- Tax Professional Since 2005, All States.
+- Admitted to Practice Before the IRS.
+- Email: mwang@unixlabplus.com
+- Wechat ID: puravidawechat

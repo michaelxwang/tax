@@ -229,7 +229,7 @@ If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of
    - Maximum value of account during calendar year converted to US dollars
    - Income (interest, dividend) generated from the account
 
-### Resident received more than $100,000 from nonresident
+### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
 - A list of date and amount of gift
 
