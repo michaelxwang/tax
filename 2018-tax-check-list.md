@@ -14,7 +14,7 @@ Please provide the following info for EACH person unless otherwise noted (new cl
 -  Email address (taxpayers only, not dependent)
 -  Occupation (taxpayers only, not dependent)
 
-### Bank Information for tax refund or payment only (I do _not_ use it for payment, new client or changed info)
+### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
 -   Bank name
 -   Bank routing number
@@ -62,8 +62,9 @@ If you have lived in multiple states, please list where you were for the entire 
    -   Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)).
    -   Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
    -   Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
-   -   RSU (Restricted Stock Unit): [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3921 from employer.
-   -   ESPP (Employee Stock Purchase Plan) sale: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3922 from employer.
+   -   RSU (Restricted Stock Unit) sale to cover: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank or similar document showing income added to W2.
+   -   ESPP (Employee Stock Purchase Plan) sale: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank (or similar document), or Form 3922 from employer showing income added to W2.
+   -   ISO (Incentive Stock Option): [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3921 from employer showing income added to W2.
    -   Early withdrawal penalties on CD's and other time deposits.
 
 ### Landlord
@@ -202,7 +203,7 @@ The itemized deduction items:
    - What is the visa status (for example, F-1, H-1B) in each year?
    - If status changed, the date of change. For example, "10/01/2018 from F-1 to H-1B."
    - How many days (including partial days) have you stayed in US in 2018, 2017, 2016?
-   - Did you file last year? If so what form used (1040 or 1040-NR)?
+   - Did you file last year? If so what form used (1040 or 1040-NR)? Did claim US-China tax treaty 20(c)?
 
 ### Foreign earned income exclusion
 
