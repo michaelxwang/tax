@@ -94,3 +94,9 @@ penaty [IRM 20.2.5.3(2)](https://www.irs.gov/irm/part20/irm_20-002-005r#idm14032
 If we use the IRS table method to calculate interest quarter by quarter,
 the result is $1,175.72. The difference due to rounding is less than
 a dollar.
+
+- Michael Wang, [Enrolled agent](https://en.wikipedia.org/wiki/Enrolled_agent)
+- Tax Professional Since 2005, All States.
+- Admitted to Practice Before the IRS.
+- Email: mwang@unixlabplus.com
+- Wechat ID: puravidawechat
