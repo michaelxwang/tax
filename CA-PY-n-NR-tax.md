@@ -13,7 +13,7 @@ tax_of(10,000 + 10,000) * 10,000/(10,000 + 10,000)
 = 1,250
 ```
 
-Please note California tax increases if you made more money outside of the state. Not only California uses income from other states, but also adds back certain deductions permitted by Federal tax code, for exampe, the pre tax contributions to Health Savings Account, and the $5,000 exemption allowed by US-China tax treaty, and they become global income *per California low*, and California income as well if the deduction takes place in California.
+Please note California tax increases if you made more money outside of the state. Not only California uses income from other states, but also adds back certain deductions permitted by Federal tax code, for exampe, the pre tax contributions to Health Savings Account, and the $5,000 exemption allowed by US-China tax treaty, and they become global income *per California law*, and California income as well if the deduction takes place in California.
 
 In general, suppose A is California income, and B is income out side of California, the formula used by California to compute tax is:
 
