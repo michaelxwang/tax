@@ -89,7 +89,8 @@ If you have lived in multiple states, please list where you were for the entire 
 ### Homeowner and itemizing items
 
 You itemize expenses only when the sum is more than standard deduction which is listed below for Y2018. Generally you itemize expenses if you own a home,
-or have large deductible items such as donation, medical expense, state tax paid.
+or have large deductible items such as donation, medical expense, state tax paid. The deduction of income tax, real estate tax, and personal tax combined
+is limited to $10,000 so you do not get all the records if it already exceeds the amount.
 
 | Filing Status | Standard Deduction Amount |
 | --- | ---: |
@@ -101,19 +102,18 @@ or have large deductible items such as donation, medical expense, state tax paid
 The itemized deduction items: 
     
    -   Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-   -   Closing documents if you bought, sold, or re-financed your home or other real estate ([Closing disclosure](https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf), [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf)).
+   -   Closing documents if in the year you bought, sold, or re-financed your home or other real estate ([Closing disclosure](https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf), [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf)).
    -   Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
    -   Energy property based on manufacturer's certification document.
-   -   Personal Property Tax (car tax). In California, vehicle license fee is deductible. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional transit authority (RTA) tax is deductible.
+   -   Personal Property Tax (car tax). In California, vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional Transit Authority tax [(RTA excise tax)](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow) is deductible.
    -   Gifts to charity (cash and non-cash).
    -   Un-reimbursement expenses related to volunteer work.
-   -   Investment expenses.
+   -   Investment interest (margin interest).
    -   Medical expenses (prescription, insurance premiums, 
             medical supplies, eye exams, glasses, contacts, co-pays,
             medical transportation (miles), other) above 7.5% of your
             adjusted gross income.
    -   Long term care insurance premium.
-   -   Last year's tax return preparation expenses and fees.
 
 ### Other separately accounted expenses
     
@@ -175,11 +175,12 @@ The itemized deduction items:
 
 ### State specific deductions.
 
-   - MA rent paid: the total amount for the year, name, address, and telephone number of the landlord.
+   - MA rent paid: the total amount for the year, name, address of the landlord.
    - MA [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
    - NJ rent for low income.
-   - VA 529 plan contributions.
-   - VA Long term insurance premium.
+   - NY requires driver's license ID, issuing state, expiration date, and issue date.
+   - VA 529 plan contributions is a state deduction.
+   - VA Long term insurance premium is a state deduction.
 
 ## SPECIAL SITUATIONS
 
