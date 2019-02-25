@@ -204,7 +204,8 @@ The itemized deduction items:
    - What is the visa status (for example, F-1, H-1B) in each year?
    - If status changed, the date of change. For example, "10/01/2018 from F-1 to H-1B."
    - How many days (including partial days) have you stayed in US in 2018, 2017, 2016?
-   - Did you file last year? If so what form used (1040 or 1040-NR)? Did claim US-China tax treaty 20(c)?
+   - Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)? 
+   - How many months have you claimed US-China tax treaty 20(c) in previous years?
 
 ### Foreign earned income exclusion
 
