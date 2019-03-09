@@ -1,5 +1,11 @@
 ## 2018 Tax Return Check List
 
+### Are you a resident or nonresident?
+
+If you came to US in 2014 or later, and had F1/OPT status for more than 183 days, then generally you are a nonresident.
+If one of spouse is a resident at the end of year, you can make 6013(g) or 6013(h) election to be treated as full year resident and file jointly.
+If you have difficulty determining the right form to file, please contact me.
+
 ### Personal Information
 
 Please provide the following info for EACH person unless otherwise noted (new client or changed info):
@@ -89,8 +95,7 @@ If you have lived in multiple states, please list where you were for the entire 
 ### Homeowner and itemizing items
 
 You itemize expenses only when the sum is more than standard deduction which is listed below for Y2018. Generally you itemize expenses if you own a home,
-or have large deductible items such as donation, medical expense, state tax paid. The deduction of income tax, real estate tax, and personal tax combined
-is limited to $10,000 so you do not get all the records if it already exceeds the amount.
+or have large deductible items such as donation, medical expense, state tax paid.
 
 | Filing Status | Standard Deduction Amount |
 | --- | ---: |
