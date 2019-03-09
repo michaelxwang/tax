@@ -3,7 +3,7 @@
 ### Are you a resident or nonresident?
 
 If you came to US in 2014 or later, and had F1/OPT status for more than 183 days, then generally you are a nonresident.
-If one of spouse is a resident at the end of year, you can make 6013(g) or 6013(h) election to be treated as full year resident and file jointly.
+If one of spouse is a resident at the end of year, you can make [6013](https://www.law.cornell.edu/uscode/text/26/6013) election to be treated as full year resident and file jointly.
 If you have difficulty determining the right form to file, please contact me.
 
 ### Personal Information
