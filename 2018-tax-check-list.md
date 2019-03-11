@@ -141,7 +141,7 @@ The itemized deduction items:
    -   Tuition and Education fees: [1098-T](https://www.irs.gov/pub/irs-pdf/f1098t.pdf), if box 1 (payments received) is empty also student account statement or bank transfer showing amount paid).
    -   Student Load interest: [1098-E](https://www.irs.gov/pub/irs-pdf/f1098e.pdf).
     
-### Self Employed Business and Employee Expenses 
+### Self Employed Business
     
    -   Business income ([1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf) and own records).
    -   Partnership SE income (Schedules [K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf)).
