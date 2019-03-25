@@ -91,6 +91,11 @@ If you have lived in multiple states, please list where you were for the entire 
    -   Taxes.
    -   Utilities.
    -   Home Owner Association fees.
+   -   FIRST YEAR RENTAL: Rental starting date.
+   -   FIRST YEAR RENTAL: Closing document.
+   -   FIRST YEAR RENTAL: Land value near the rental starting date from the county website.
+   -   MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
+   -   PARTIAL YEAR AND MIXED: Specify expenses for what time period, for what space (entire house or the rental rooms).
 
 ### Homeowner and itemizing items
 
