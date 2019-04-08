@@ -14,7 +14,7 @@ Please provide the following info for EACH person unless otherwise noted (new cl
 -  Middle name
 -  Last name
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Date of Birth
+-  Date of Birth (MM/DD/YYYY)
 -  Address (taxpayers only, not dependent)
 -  Telephone number (taxpayers only, not dependent)
 -  Email address (taxpayers only, not dependent)
@@ -42,7 +42,7 @@ Stock, investment interest expense, and other _carry-over_ items, continued depr
 
 ### Multi-states info
 
-If you have lived in multiple states, please list where you were for the entire year in a format as shown below, accurate to the state or country:
+Please list where you were for the entire year in a format as shown below, accurate to the state or country. Vacation without changing state residency needs not to be listed.
 
    -   01/01/2018 - 05/15/2018 MD
    -   05/16/2018 - 08/15/2018 China
@@ -62,6 +62,14 @@ If you have lived in multiple states, please list where you were for the entire 
    -   Prizes and awards.
    -   Scholarships and fellowships.
    -   State and local income tax refunds ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf), _only_ you have itemized).
+
+### HSA
+
+If you have HSA (Health Savings Accounts), please provide:
+
+   - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also an valid amount.
+   - Amount you contributed yourself _apart from payroll process_.
+   - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
 
 ### Financial Assets
     
@@ -127,7 +135,6 @@ The itemized deduction items:
 
 ### Other separately accounted expenses
     
-   -   HSA (Health Savings Accounts): please provide [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) as well as [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) or account statement showing contribution amount _made separately by yourself besides paycheck deduction_.
    -   Adoption expenses.
    -   Alimony paid.
    -   Moving expenses (for military move only): if you drove, you can use mileage plus hotel; if you flew, the air ticket.
