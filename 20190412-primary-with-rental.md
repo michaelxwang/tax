@@ -8,11 +8,11 @@ on the sale of rental home discussed in the
 It is easier to explain the tax theory with an example, so here it is:
 
 >Jack Ma bought a rental house in 2010 for $200,000. After living there
-as primary residence for a year, he rented for three years (2011, 2012,
-2013) and depreciated 20,000 during the rental period. Afterwards, he
-lived there for two more years (2014, 2015) and then sold the house for
-25,000. How should Jack pay tax on the sale? (Assuming the land value
-is zero or did not change).
+>as primary residence for a year, he rented for three years (2011, 2012,
+>2013) and depreciated 20,000 during the rental period. Afterwards, he
+>lived there for two more years (2014, 2015) and then sold the house for
+>25,000. How should Jack pay tax on the sale? (Assuming the land value
+>is zero or did not change).
 
 First we shall calculate the cost basis. Because depreciation reduced
 the cost basis, the cost basis at the time of sale is:
