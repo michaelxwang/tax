@@ -123,7 +123,7 @@ The itemized deduction items:
    -   Closing documents if in the year you bought, sold, or re-financed your home or other real estate ([Closing disclosure](https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf), [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf)).
    -   Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
    -   Energy property based on manufacturer's certification document.
-   -   Personal Property Tax (car tax). In California, vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional Transit Authority tax [(RTA excise tax)](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow) is deductible.
+   -   Personal Property Tax (car tax). In California, vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional Transit Authority tax [(RTA excise tax)](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow) is deductible.
    -   Gifts to charity (cash and non-cash).
    -   Un-reimbursement expenses related to volunteer work.
    -   Investment interest (margin interest).
