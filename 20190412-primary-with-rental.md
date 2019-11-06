@@ -11,7 +11,7 @@ It is easier to explain the tax theory with an example, so here it is:
 >as primary residence for a year, he rented for three years (2011, 2012,
 >2013) and depreciated 20,000 during the rental period. Afterwards, he
 >lived there for two more years (2014, 2015) and then sold the house for
->25,000. How should Jack pay tax on the sale? (Assuming the land value
+>250,000. How should Jack pay tax on the sale? (Assuming the land value
 >is zero or did not change).
 
 First we shall calculate the cost basis. Because depreciation reduced
