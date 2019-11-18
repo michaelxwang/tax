@@ -121,6 +121,22 @@ the adjustment on the basis. If you do not make adjustment, then
 you are paying tax twice on this part of income, once as ordinary
 income, and once as capital gain.
 
+For those who study math and computer science, I will provide some math
+formulas. Suppose the FMV is M, Purchase price is P, and Sale price is S, then:
+
+- Disqualified:
+
+-- Ordinary gain: M-P  
+-- Capital gain: S-M
+
+* Qualified:
+
+-- Ordinary gain (O) = min(M-P, max(S-P,0))  
+-- Capital gain: S-(P+O)
+
+The disqualified equations are simpler, but not more advantageous, since the tax on ordinary gain >= tax on capital gain.
+Also one can prove that when P>=M, then qualified equations reduce to disqualified equations.
+
 - RSU
 
 RSU is non-statuary stock option. You do not pay tax when the stock
