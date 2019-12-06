@@ -113,8 +113,13 @@ If you have HSA (Health Savings Accounts), please provide:
 
 ### Homeowner and itemizing items
 
-You itemize expenses only when the sum is more than standard deduction which is listed below for Y2018. Generally you itemize expenses if you own a home,
-or have large deductible items such as donation, medical expense, state tax paid.
+You itemize expenses only when the sum is more than standard deduction
+which is listed below for Y2019. Some states (NY, CA) allows itemized
+deduction for the states when you use standard deduction for the
+federal.
+
+Generally you itemize expenses if you own a home, or have large
+deductible items such as donation, medical expense, state tax paid.
 
 | Filing Status | Standard Deduction Amount |
 | --- | ---: |
@@ -225,8 +230,8 @@ The itemized deduction items:
    - Are you citizen of China (for US-China tax treaty)?
    - What is your first entry to US [very first time as a student]?
    - What is the visa status (for example, F-1, H-1B) in each year?
-   - If status changed, the date of change. For example, "10/01/2018 from F-1 to H-1B."
-   - How many days (including partial days) have you stayed in US in 2018, 2017, 2016?
+   - If status changed, the date of change. For example, "10/01/2019 from F-1 to H-1B."
+   - How many days (including partial days) have you stayed in US in 2019, 2018, 2017?
    - Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)? 
    - How many months have you claimed US-China tax treaty 20(c) in previous years?
 
@@ -240,7 +245,7 @@ The itemized deduction items:
    - The last year you filed foreign earned income exclusion (Form 2555):
    - Of what country are you a citizen/national?
    - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-   - Find a period of 12 months in a row starting or ending in 2018 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
+   - Find a period of 12 months in a row starting or ending in 2019 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2017, and list where you were and income earned in U.S. Example:
      - 11/01/2018 - 06/31/2019 in China
      - 07/01/2019 - 07/15/2019 in U.S., earned $0
      - 07/16/2019 - 10/31/2019 in China
