@@ -73,6 +73,7 @@ Please list where you were for the entire year in a format as shown below, accur
 
 If you have HSA (Health Savings Accounts), please provide:
 
+   - Is it a "self-only" plan (insurance only covers yourself) or a family plan?
    - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also an valid amount.
    - Amount you contributed yourself _apart from payroll process_.
    - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
