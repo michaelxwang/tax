@@ -9,7 +9,7 @@ How do you contribute to ROTH IRA via "back door"? Here is the run book:
 
 0. Make sure you do not have tradition IRA without basis [or a rollover IRA from 401(k)] or get rid of it (see footnote).
 1. You contribute to traditional IRA in the amount X.
-2. You convert the full amount to ROTH IRA at earliest possible time.
+2. You convert the full amount to ROTH IRA at earliest possible time _without paying withholding tax_.
 3. Provide (a) the contribution and (b) distribution information to your accountant or your tax software.
 
 Here is what you will see on your tax form when it is done right:
