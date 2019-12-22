@@ -12,7 +12,7 @@ How do you contribute to ROTH IRA via "back door"? Here is the run book:
 2. You convert the full amount to ROTH IRA at earliest possible time.
 3. Provide (a) the contribution and (b) distribution information to your accountant or your tax software.
 
-Here is how you verify the result on your tax form when it is done right:
+Here is what you will see on your tax form when it is done right:
 
 - You report the deductible amount Y (0 <= Y <= X) in the year where the contribution is allocated.
 - You report the income amount Y in the year where the conversion is made.
