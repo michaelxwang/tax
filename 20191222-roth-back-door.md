@@ -23,8 +23,10 @@ Example:
 
 You do not participate 401(k) plan. On 2019-04-01 you contributed to traditional IRA $5,500 allocated to 2018, and $6,000 allocated to 2019, and on 2019-04-03 you converted the full amount $11,500 to ROTH IRA.
 
-- On your 2018 form 1040, you report $5,500 deduction.
-- On your 2019 form 1040, you report $6,000 deduction, and $11,500 income.
+- On your 2018 form 1040, you report deduction Y1 ($5,500).
+- On your 2019 form 1040, you report deduction Y2 ($6,000) and income Y1 + Y2 ($11,500).
+
+If the situation is that you have 401(k) and high enough wage, then Y1 = Y2 = 0.
 
 Footnote:
 
