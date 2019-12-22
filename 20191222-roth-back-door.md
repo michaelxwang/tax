@@ -15,7 +15,7 @@ How do you contribute to ROTH IRA via "back door"? Here is the run book:
 Here is how you verify the result on your tax form when it is done right:
 
 - You report the deductible amount Y (0 <= Y <= X) in the year where the contribution is allocated.
-- You report the income amount +Y in the year where the conversion is made.
+- You report the income amount Y in the year where the conversion is made.
 
 The deduction and income cancels each other, and the end result is that you have contributed X to ROTH IRA.
 
@@ -32,7 +32,7 @@ Footnote:
 
 - The contribution is in [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) but it normally comes after the filing deadline, so provide the information of the amount, and year allocated to.
 - The distribution is in [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf) and it will come before the deadline. The distribution code should be 02 (early distribution but exception applies).
-- If you do have traditional IRA ("old money"), then you would need to convert it to ROTH IRA and pay tax first, which is the original intent of the "back door". If you do not have "old money" or have got rid of it, there is nothing wrong nor illegal for the "new money" to take a free ride via the "back door". I would not recommend to mix the "old money" with "new money" for the sake of sanity as you will need to keep track of the basis via [Form 8606](https://www.irs.gov/pub/irs-pdf/f8606.pdf). 
+- If you do have traditional IRA ("old money"), then you would need to convert it to ROTH IRA and pay tax first, which is the original intent of the "back door". If you do not have "old money" or have got rid of it, there is nothing wrong nor illegal for the "new money" to take a free ride via the "back door". I would not recommend to mix the "old money" without basis with "new money" with basis for the sake of sanity as you will need to keep track of the basis via [Form 8606](https://www.irs.gov/pub/irs-pdf/f8606.pdf). 
 
 --  
 Michael Wang, [Enrolled agent](https://en.wikipedia.org/wiki/Enrolled_agent)  
