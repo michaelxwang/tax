@@ -238,29 +238,29 @@ The itemized deduction items:
 
 ### Foreign Earned Income Exclusion (FEIE).
 
-   - [ ] Your foreign home address including postal code. Own or rent?
-   - [ ] Employer's name.
-   - [ ] Employer's foreign address including postal code.
-   - [ ] Employer's U.S. address if it has one.
-   - [ ] Income earned in U.S. dollars.
-   - [ ] Foreign residency first established (i.e. when did you establish the foreign residency)?
-   - [ ] The last year you filed foreign earned income exclusion (Form 2555)?
-   - [ ] Of what country are you a citizen/national?
-   - [ ] Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-   - [ ] Find a period of 12 months in a row starting or ending in 2019 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2019, and list where you were and income earned in U.S. Example:
+   - Your foreign home address including postal code. Own or rent?
+   - Employer's name.
+   - Employer's foreign address including postal code.
+   - Employer's U.S. address if it has one.
+   - Income earned in U.S. dollars.
+   - Foreign residency first established (i.e. when did you establish the foreign residency)?
+   - The last year you filed foreign earned income exclusion (Form 2555)?
+   - Of what country are you a citizen/national?
+   - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
+   - Find a period of 12 months in a row starting or ending in 2019 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2019, and list where you were and income earned in U.S. Example:
      - 11/01/2018 - 06/31/2019 in China.
      - 07/01/2019 - 07/15/2019 in US, earned $0.
      - 07/16/2019 - 10/31/2019 in China.
 
-### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938
+### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
 If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements), please provide information on EACH of the accounts as follows:
 
-   - [ ] Bank name
-   - [ ] Address in English including postal code
-   - [ ] Account number
-   - [ ] Maximum value of account during calendar year converted to US dollars
-   - [ ] Income (interest, dividend) generated from the account
+   - Bank name.
+   - Address in English including postal code.
+   - Account number.
+   - Maximum value of account during calendar year converted to US dollars.
+   - Income (interest, dividend) generated from the account (they are taxable).
 
 ### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
