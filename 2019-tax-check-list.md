@@ -204,11 +204,11 @@ The itemized deduction items:
 
 ### State specific deductions.
 
+   - 529 college savings plan.
    - MA rent paid: the total amount for the year, name, address of the landlord.
    - MA [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
    - NJ rent for low income.
    - NY requires driver's license ID, issuing state, expiration date, and issue date.
-   - VA 529 plan contributions is a state deduction.
    - VA Long term insurance premium is a state deduction.
 
 ## SPECIAL SITUATIONS
