@@ -254,13 +254,18 @@ The itemized deduction items:
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
-If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements), please provide information on EACH of the accounts as follows:
+If meet the reporting [requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements), 
+please provide information on EACH of the accounts as follows (you can use the [exchange rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates)
+published by IRS):
 
    - Bank name.
-   - Address in English including postal code.
+   - Type (Bank, Securities, Other - Please specify).
+   - Owner (Taxpayer - first person listed first on the tax form, Spouse, or Joint).
+   - Address in English including postal code (can use head quarter's address).
    - Account number.
-   - Maximum value of account during calendar year converted to US dollars.
-   - Income (interest, dividend) generated from the account (they are taxable).
+   - Maximum value of account during calendar year in US dollars (not taxable).
+   - Interest generated from the account in US dollars (taxable).
+   - Dividend generated from the account in US dollars (taxable).
 
 ### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
