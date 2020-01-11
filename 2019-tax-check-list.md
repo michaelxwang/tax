@@ -260,7 +260,7 @@ published by IRS):
 
    - Bank name.
    - Type (Bank, Securities, Other - Please specify).
-   - Owner (Taxpayer - first person listed first on the tax form, Spouse, or Joint).
+   - Owner if married file jointly (Taxpayer - first person listed first on the tax form, Spouse, or Joint).
    - Address in English including postal code (can use head quarter's address).
    - Account number.
    - Maximum value of account during calendar year in US dollars (not taxable).
