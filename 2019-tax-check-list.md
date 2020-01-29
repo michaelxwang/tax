@@ -83,6 +83,7 @@ If you have HSA (Health Savings Accounts), please provide:
    -   Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)).
    -   Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
    -   Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
+   -   Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
    -   RSU (Restricted Stock Unit) sale to cover: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank or similar document showing income added to W2.
    -   ESPP (Employee Stock Purchase Plan) sale: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank (or similar document), or Form 3922 from employer showing income added to W2.
    -   ISO (Incentive Stock Option): [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](https://github.com/michaelxwang/images/blob/master/20190103-tax-RSU-ESPP.pdf) from bank, or Form 3921 from employer showing income added to W2.
