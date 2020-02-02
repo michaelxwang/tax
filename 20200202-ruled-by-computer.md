@@ -40,6 +40,7 @@ to admit guilt, in the cover letter to VA, I said:
 >if you have applied a fix or found a workaround, or accept this
 >amended return, whichever you find it easier.
 
+The letter, like "peeing into the snow on a dark winter’s night", makes no difference.
 Finally VA accepted and processed my amended return, and the computer won!
 
 --  
