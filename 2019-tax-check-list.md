@@ -233,8 +233,8 @@ The itemized deduction items:
    - What is your first entry to US [very first time as a student]?
    - What is the visa status (for example, F-1, H-1B) in each year?
    - If status changed, the date of change. For example, "10/01/2019 from F-1 to H-1B."
-   - How many days (including partial days) have you stayed in US in 2019, 2018, 2017?
-   - Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)? 
+   - How many days (including partial days) have you stayed in US in 2019, 2018, 2017 respectively?
+   - Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
    - How many months have you claimed US-China tax treaty 20(c) in previous years?
 
 ### Foreign Earned Income Exclusion (FEIE).
@@ -261,7 +261,7 @@ published by IRS):
 
    - Bank name.
    - Type (Bank, Securities, Other - Please specify).
-   - Owner if married file jointly (Taxpayer - first person listed first on the tax form, Spouse, or Joint).
+   - Owner if married file jointly (Taxpayer - the person listed first on the tax form, Spouse, or Joint).
    - Address in English including postal code (can use head quarter's address).
    - Account number.
    - Maximum value of account during calendar year in US dollars (not taxable).
