@@ -150,7 +150,7 @@ The itemized deduction items:
     
    -   Adoption expenses.
    -   Alimony paid.
-   -   Moving expenses (for military move only): if you drove, you can use mileage plus hotel; if you flew, the air ticket.
+   -   Moving expenses (for military move and move to California only): if you drove, you can use mileage plus hotel; if you flew, the air ticket.
 
 ### Child care
     
