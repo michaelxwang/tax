@@ -244,6 +244,9 @@ The itemized deduction items:
    -   Passport Number:
    -   Passport Expiration date:
    -   Date of entry into the United States:
+   -   The photo page of the applicant's passport.
+   -   The visa page of the applicant's passport.
+   -   The most recent entry stamp page of the applicant's passport.
 
 ### Nonresident
 
@@ -258,19 +261,22 @@ The itemized deduction items:
 
 ### Foreign Earned Income Exclusion (FEIE).
 
+   - Of what country are you a citizen/national?
+   - Visa in foreign country, how long does it need to renew?
+   - Foreign residency first established (i.e. when did you establish the foreign residency)?
    - Your foreign home address including postal code. Own or rent?
    - Employer's name.
    - Employer's foreign address including postal code.
    - Employer's U.S. address if it has one.
-   - Income earned in U.S. dollars.
-   - Foreign residency first established (i.e. when did you establish the foreign residency)?
-   - The last year you filed foreign earned income exclusion (Form 2555)?
-   - Of what country are you a citizen/national?
+   - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
    - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-   - Find a period of 12 months in a row starting or ending in 2019 during which you physically present in a foreign country or countries for at least 330 full days and which has maximum number of days in 2019, and list where you were and income earned in U.S. Example:
+   - List travel history to the US in format below from 01/01/2018 until now.
      - 11/01/2018 - 06/31/2019 in China.
      - 07/01/2019 - 07/15/2019 in US, earned $0.
-     - 07/16/2019 - 10/31/2019 in China.
+     - 07/16/2019 - 02/19/2020 in China.
+   - Did you maintain a home in the United States while living abroad? 
+   - If yes, provide address of your home,  rented or not, the names of the occupants, and their relationship to you.
+   - The last year you filed foreign earned income exclusion (Form 2555)?
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
