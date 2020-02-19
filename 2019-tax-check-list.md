@@ -2,12 +2,17 @@
 
 ### Are you a resident or nonresident?
 
-If you came to US in 2015 or later, and had F1/OPT status for more
-than 183 days during, then generally you are a nonresident.  If one
-of spouse is a resident at the end of year, you can make
-[6013](https://www.law.cornell.edu/uscode/text/26/6013) election
-to be treated as full year resident and file jointly.  If you have
-difficulty determining the right form to file, please contact me.
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holde), or a professional worker with H-1B visa for entire year of 2019?
+- If the answer to question is NO, please list your (and your spouse's if married) visa history in a format shown below:
+
+   -   2017 F1
+   -   2018 F1
+   -   2019-01-01 - 2019-09-30 F1
+   -   2019-10-01 - 2019-12-31 H1-B
+
+and go to "Nonresident" section for additional questions.
+
+NB: Special benefit for married couple: if one spouse is a resident at the end of year 2019, you and your nonresident spouse can elect to file jointly as residents.
 
 ### Personal Information
 
@@ -39,6 +44,8 @@ states in the format.
 
 - VA: owed and paid $500
 - DC: refund of $300
+
+The information is in your last year's return, 1099-G the state sent out, or your bank record.
 
 ### Other carryover items (new client only)
 
@@ -115,10 +122,22 @@ If you have HSA (Health Savings Accounts), please provide:
 
 ### Homeowner and itemizing items
 
-You itemize expenses only when the sum is more than standard deduction
-which is listed below for Y2019. Some states (NY, CA) allows itemized
-deduction for the states when you use standard deduction for the
-federal.
+Provide the information when:
+
+
+   -   The sum is more than or very close to the federal standard deduction list below, or
+   -   You live in a state which allows state itemized deduction while using federal standard deduction
+
+The states that allow separate state itemized deduction:
+
+- CA
+- DE
+- NY
+
+The states that do allow separate state itemized deduction:
+
+- MD
+- VA
 
 Generally you itemize expenses if you own a home, or have large
 deductible items such as donation, medical expense, state tax paid.
