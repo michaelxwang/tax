@@ -2,13 +2,13 @@
 
 ### Are you a resident or nonresident?
 
-- Were you (or your spouse if married) a citizen, a permanent resident (green card holde), or a professional worker with H-1B visa for entire year of 2019?
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holde), or a professional worker with H-1B, L1 visa for entire year of 2019?
 - If the answer to question is NO, please list your (and your spouse's if married) visa history in a format shown below:
 
    -   2017 F1
    -   2018 F1
    -   2019-01-01 - 2019-09-30 F1
-   -   2019-10-01 - 2019-12-31 H1-B
+   -   2019-10-01 - 2019-12-31 H1B
 
 and go to "Nonresident" section for additional questions.
 
@@ -55,12 +55,13 @@ Stock, investment interest expense, and other _carry-over_ items, continued depr
 
 ### Multi-states info
 
-Please list where you were for the entire year in a format as shown below, accurate to the state or country. Vacation without changing state residency needs not to be listed.
+Please list where you were for the entire year in a format as shown below, accurate to the state or country. Vacation within the US without changing state residency needs not to be listed.
+Resident does not list travel outside the United States.
 
    -   01/01/2019 - 05/15/2019 MD
    -   05/16/2019 - 08/15/2019 China
    -   08/16/2019 - 12/31/2019 VA
-    
+
 ### Income
     
    -   [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
