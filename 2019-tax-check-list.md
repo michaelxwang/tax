@@ -2,7 +2,7 @@
 
 ### Are you a resident or nonresident?
 
-- Were you (or your spouse if married) a citizen, a permanent resident (green card holde), or a professional worker with H-1B, L1 visa for entire year of 2019?
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with H-1B, L1 visa for entire year of 2019?
 - If the answer to question is NO, please list your (and your spouse's if married) visa history in a format shown below:
 
    -   2017 F1
@@ -248,6 +248,7 @@ The itemized deduction items:
    -   The photo page of the applicant's passport.
    -   The visa page of the applicant's passport.
    -   The most recent entry stamp page of the applicant's passport.
+   -   The most recent school transcript (For child under 18).
 
 ### Nonresident
 
