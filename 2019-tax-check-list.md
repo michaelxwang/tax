@@ -129,16 +129,16 @@ Provide the information when:
    -   The sum is more than or very close to the federal standard deduction list below, or
    -   You live in a state which allows state itemized deduction while using federal standard deduction
 
-The states that allow separate state itemized deduction:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The states that allow separate state itemized deduction:
 
-- CA
-- DE
-- NY
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CA  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DE  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - NY
 
-The states that do allow separate state itemized deduction:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The states that do allow separate state itemized deduction:
 
-- MD
-- VA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - VA
 
 Generally you itemize expenses if you own a home, or have large
 deductible items such as donation, medical expense, state tax paid.
@@ -170,7 +170,12 @@ The itemized deduction items:
     
    -   Adoption expenses.
    -   Alimony paid.
-   -   Moving expenses (for military move and move to California only): if you drove, you can use mileage plus hotel; if you flew, the air ticket.
+   -   Moving expenses (for military move, and move to followingstates) if you drove, you can use mileage plus hotel; if you flew, the air ticket.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The states that allows moving expenses include:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CA  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MA
 
 ### Child care
     
