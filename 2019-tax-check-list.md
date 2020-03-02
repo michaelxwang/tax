@@ -10,7 +10,7 @@
    -   2019-01-01 - 2019-09-30 F1
    -   2019-10-01 - 2019-12-31 H1B
 
-and go to "Nonresident" section for additional questions.
+and be sure to provide information in "Nonresident" section of this checklist.
 
 NB: Special benefit for married couple: if one spouse is a resident at the end of year 2019, you and your nonresident spouse can elect to file jointly as residents.
 
