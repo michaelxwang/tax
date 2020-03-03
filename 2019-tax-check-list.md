@@ -232,6 +232,7 @@ The itemized deduction items:
 
    - All states: 529 college savings plan.
    - MA: rent paid: the total amount for the year, name, address of the landlord.
+   - MA: commuter expense (MBTA, EzPass).
    - MA: [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
    - NJ: rent or property tax paid.
    - NY: requires driver's license ID, issuing state, expiration date, and issue date.
