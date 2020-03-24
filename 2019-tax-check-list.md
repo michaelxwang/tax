@@ -3,12 +3,12 @@
 ### Are you a resident or nonresident?
 
 - Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with H-1B, L1 visa for entire year of 2019?
-- If the answer to question is NO, please list your (and your spouse's if married) visa history in a format shown below:
+- If the answer to question is NO, please list your (and your spouse's if married) complete visa history in a format shown below:
 
-   -   2017 F1
-   -   2018 F1
-   -   2019-01-01 - 2019-09-30 F1
-   -   2019-10-01 - 2019-12-31 H1B
+   -   20XX F1
+   -   20XX F1
+   -   20XX-01-01 - 20XX-09-30 F1
+   -   20XX-10-01 - 20XX-12-31 H1B
 
 and be sure to provide information in "Nonresident" section of this checklist.
 
@@ -31,8 +31,8 @@ Please provide the following info for EACH person unless otherwise noted (new cl
 ### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
 -   Bank name
--   Bank routing number
--   Your account number
+-   Bank routing number (as appeared on your checkbook if you use checking account)
+-   Your account number (as appeared on your checkbook if you use checking account)
 -   Your account type (Checking or Savings)
     
 ### Last year taxes if itemized (new client only)
@@ -82,7 +82,7 @@ Resident does not list travel outside the United States.
 If you have HSA (Health Savings Accounts), please provide:
 
    - Is it a "self-only" plan (insurance only covers yourself) or a family plan?
-   - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also an valid amount.
+   - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a valid number and meaningful information.
    - Amount you contributed yourself _apart from payroll process_.
    - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
 
@@ -115,8 +115,9 @@ If you have HSA (Health Savings Accounts), please provide:
    -   Taxes.
    -   Utilities.
    -   Home Owner Association fees.
-   -   FIRST YEAR RENTAL: Rental starting date.
+   -   FIRST YEAR RENTAL: Rental starting date (MM/DD/YYYY).
    -   FIRST YEAR RENTAL: Closing document.
+   -   FIRST YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
    -   FIRST YEAR RENTAL: Land value near the rental starting date from the county website.
    -   MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
    -   PARTIAL YEAR AND MIXED: Specify expenses for what time period, for what space (entire house or the rental rooms).
@@ -235,7 +236,7 @@ The itemized deduction items:
    - MA: commuter expense (MBTA, EzPass).
    - MA: [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf)
    - NJ: rent or property tax paid.
-   - NY: requires driver's license ID, issuing state, expiration date, and issue date.
+   - NY: requires driver's license ID, issuing state, expiration date, and issue date, or simply upload images of front and back of your driver's license.
    - VA: Long term insurance premium is a state deduction.
 
 ## SPECIAL SITUATIONS
@@ -245,12 +246,12 @@ The itemized deduction items:
    -   Country of birth: 
    -   Country of citizenship:
    -   Type of US visa:
-   -   Visa number:
-   -   Visa expiration date:
+   -   Visa number (red letter on the visa):
+   -   Visa expiration date (MM/DD/YYYY):
    -   Passport issued by:
    -   Passport Number:
-   -   Passport Expiration date:
-   -   Date of entry into the United States:
+   -   Passport Expiration date (MM/DD/YYYY):
+   -   Date of entry into the United States (MM/DD/YYYY):
    -   The photo page of the applicant's passport.
    -   The visa page of the applicant's passport.
    -   The most recent entry stamp page of the applicant's passport.
@@ -260,12 +261,11 @@ The itemized deduction items:
 
    - Are you citizen of India (for US-India tax treaty)?
    - Are you citizen of China (for US-China tax treaty)?
-   - What is your first entry to US [very first time as a student]?
-   - What is the visa status (for example, F-1, H-1B) in each year?
-   - If status changed, the date of change. For example, "10/01/2019 from F-1 to H-1B."
+   - If status changed, the date of change (MM/DD/YYYY). For example, "10/01/2019 from F1 to H1B."
    - How many days (including partial days) have you stayed in US in 2019, 2018, 2017 respectively?
-   - Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
-   - How many months have you claimed US-China tax treaty 20(c) in previous years?
+   - Is the number of days in US in 2019 consistent with the Multi-state informatin provided earlier?
+   - [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
+   - [New client only] How many months have you claimed US-China tax treaty 20(c) in previous years?
 
 ### Foreign Earned Income Exclusion (FEIE).
 
@@ -303,7 +303,11 @@ published by IRS):
 
 ### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
-- A list of date and amount of gift
+- A list of date and amount of gift. Example:
+
+   - 07/04/2019, Cash from Uncle Sam,   $88,000
+   - 12/25/2019, Cash from Santa Claus, $88,000
+   - Total:                            $176,000
 
 I hope this check list helps you to prepare your tax documents.
 
