@@ -14,6 +14,16 @@ and be sure to provide information in "Nonresident" section of this checklist.
 
 NB: Special benefit for married couple: if one spouse is a resident at the end of year 2019, you and your nonresident spouse can elect to file jointly as residents.
 
+### What is your filing status?
+
+   - Single
+   - Married Filing jointly (MFJ)
+   - Married filing separately (MFS)
+   - Head of Household (HOH)
+   - Qualifier window(er) (QW)
+
+If you are not sure, please describe your situation.
+
 ### Personal Information
 
 Please provide the following info for EACH person unless otherwise noted (new client or changed info):
