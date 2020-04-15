@@ -2,7 +2,7 @@
 
 ### Are you a resident or nonresident?
 
-- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with H-1B, L1 visa for entire year of 2019?
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2019?
 - If the answer to question is NO, please list your (and your spouse's if married) complete visa history in a format shown below:
 
    -   20XX F1
@@ -66,11 +66,13 @@ Stock, investment interest expense, and other _carry-over_ items, continued depr
 ### Multi-states info
 
 Please list where you were for the entire year in a format as shown below, accurate to the state or country. Vacation within the US without changing state residency needs not to be listed.
-Resident does not list travel outside the United States.
+You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search).
 
    -   01/01/2019 - 05/15/2019 MD
    -   05/16/2019 - 08/15/2019 China
    -   08/16/2019 - 12/31/2019 VA
+
+Residents do not need to list travel outside the United States.
 
 ### Income
     
@@ -119,12 +121,12 @@ If you have HSA (Health Savings Accounts), please provide:
    -   Legal and other professional fees (tax preparation fee).
    -   Management fees.
    -   Mortgage interest paid to banks, etc.
-   -   Other interest.
+   -   Other interests.
    -   Repairs.
    -   Supplies.
    -   Taxes.
    -   Utilities.
-   -   Home Owner Association fees.
+   -   HomeOwner Association (HOA) fees.
    -   FIRST YEAR RENTAL: Rental starting date (MM/DD/YYYY).
    -   FIRST YEAR RENTAL: Closing document.
    -   FIRST YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
@@ -146,7 +148,7 @@ Provide the information when:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DE  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - NY
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The states that do allow separate state itemized deduction:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The states that do not allow separate state itemized deduction:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MD  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - VA
@@ -212,15 +214,15 @@ The itemized deduction items:
    -   Entertainment and meals.
    -   Job hunting expenses.
    -   Lodging.
-   -   Office in home.
+   -   Home office.
    -   Professional dues.
    -   Union dues.
    -   Publications.
    -   Research expenses.
-   -   Safety equipments.
+   -   Safety equipment.
    -   Supplies.
    -   Telephones.
-   -   Tools and equipments.
+   -   Tools and equipment.
    -   Travel.
    -   Uniform and cost of cleaning.
    -   Internet expenses if for business use.
@@ -235,7 +237,7 @@ The itemized deduction items:
    -   IRA, KEOGH, and other retirement plan contributions (if self-employed, identify as for self or employees).
    -   Records to document casualties or theft losses.
    -   Records for any other expenditures that may be deductible.
-   -   Records for any other revenue for sales of property that may be taxable or re-portable.
+   -   Records for any other revenue for sales of property that may be taxable or reportable.
    -   Federal, state, and local estimated income tax paid for the tax year.
    -   Employment taxes and other business taxes paid for the tax year.
 
@@ -272,7 +274,7 @@ The itemized deduction items:
    - Are you citizen of India (for US-India tax treaty)?
    - Are you citizen of China (for US-China tax treaty)?
    - If status changed, the date of change (MM/DD/YYYY). For example, "10/01/2019 from F1 to H1B."
-   - How many days (including partial days) have you stayed in US in 2019, 2018, 2017 respectively?
+   - How many days (including partial days) have you stayed in US in 2019, 2018, 2017 respectively? You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
    - Is the number of days in US in 2019 consistent with the Multi-state informatin provided earlier?
    - [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
    - [New client only] How many months have you claimed US-China tax treaty 20(c) in previous years?
@@ -293,7 +295,7 @@ The itemized deduction items:
      - 07/01/2019 - 07/15/2019 in US, earned $0.
      - 07/16/2019 - 02/19/2020 in China.
    - Did you maintain a home in the United States while living abroad? 
-   - If yes, provide address of your home,  rented or not, the names of the occupants, and their relationship to you.
+   - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
    - The last year you filed foreign earned income exclusion (Form 2555)?
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
@@ -313,11 +315,11 @@ published by IRS):
 
 ### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
-- A list of date and amount of gift. Example:
+- A list of dates and amounts of gifts. Example:
 
-   - 07/04/2019, Cash from Uncle Sam,   $88,000
-   - 12/25/2019, Cash from Santa Claus, $88,000
-   - Total:                            $176,000
+   - 07/04/2019, Cash from Uncle Sam,   $008,888
+   - 12/25/2019, Cash from Santa Claus, $880,000
+   - Total:                            $888,888
 
 I hope this check list helps you to prepare your tax documents.
 
