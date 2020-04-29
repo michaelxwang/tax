@@ -29,7 +29,7 @@ amount. As a SE person, you are employer and employee at the same time,
 so you pays the double amount: 7.65% * 2 = 15.3%. This explains the FICA
 tax rate, but where does 92.35% (0.9235) comes from?
 
-Just the employers can their FICA contribution, the SE person can
+Just the employers can deduct their FICA contribution, the SE person can
 deduction one-half of the SE tax (employer portion) before paying FICA
 tax, so we have:
 
@@ -161,9 +161,9 @@ Reference:
 [4] https://www.irs.gov/publications/p560/ch05.html
 [5] https://en.wikipedia.org/wiki/SEP-IRA
 
-麦克王，云报税。
-质量高，价不贵。
-任何州，无所谓。
-童与叟，不欺昧。
-既省钱，又无罪。
-大华府，第三位。
+--  
+Michael Wang, [Enrolled agent](https://en.wikipedia.org/wiki/Enrolled_agent)  
+Admitted to Practice Before the IRS.  
+Tax Professional Since 2005, All States.  
+Email: mwang@unixlabplus.com  
+Wechat ID: puravidawechat
