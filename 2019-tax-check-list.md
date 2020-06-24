@@ -297,6 +297,21 @@ The itemized deduction items:
    - Did you maintain a home in the United States while living abroad? 
    - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
    - The last year you filed foreign earned income exclusion (Form 2555)?
+   - Qualified foreign housing expenses whcih include: 
+   1. Rent
+   2. Utilities (except for telephone, TV services, and internet)
+   3. Personal property insurance (such as homeowner’s or renter’s insurance)
+   4. Leasing fees
+   5. Furniture rental
+   6. Parking rental
+   7. Repairs
+
+   Qualified foreign housing expenses do _NOT_  include:
+
+   1. Mortgage payments
+   2. Domestic labor (maids, housekeepers, etc.)
+   3. Purchased furniture
+   4. Anything deemed “lavish or extravagant”
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
