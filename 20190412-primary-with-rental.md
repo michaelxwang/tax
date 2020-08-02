@@ -3,7 +3,7 @@
 This article discusses what taxes to be paid when you sells primary home
 with rental history. The prerequisite for this article is the taxation
 on the sale of rental home discussed in the
-[other article](https://github.com/michaelxwang/tax/blob/master/sale-of-rental-home.md).
+[other article](https://github.com/michaelxwang/tax/blob/master/20181125-sale-of-rental-home.md).
 
 It is easier to explain the tax theory with an example, so here it is:
 
