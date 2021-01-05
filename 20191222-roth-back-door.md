@@ -1,9 +1,11 @@
 ## Contributing to ROTH IRA through "back door"
 
+![](https://raw.githubusercontent.com/michaelxwang/images/master/20210105-Basic_Backdoor_Roth_IRA.jpg)
+
 We hold these truths to be self-evident that
 
 - Everyone can contribute to traditional IRA, even Bill Gates if he likes, it is just how much one can deduct from her income, zero, partial, or the full amount.
-- Everyone can contribute to ROTH IRA, even Bill Gates if he likes, it is just a matter that it is done through "front door" (direct contribution) or "back door" (conversion).
+- Everyone can put money to ROTH IRA, even Bill Gates if he likes, it is just a matter that it is done through "front door" (direct contribution) or "back door" (conversion).
 
 How do you contribute to ROTH IRA via "back door"? Here is the run book:
 
@@ -21,12 +23,17 @@ The deduction and income cancels each other, and the end result is that you have
 
 Example:
 
-You do not participate 401(k) plan. On 2019-04-01 you contributed to traditional IRA $5,500 allocated to 2018, and $6,000 allocated to 2019, and on 2019-04-03 you converted the full amount $11,500 to ROTH IRA.
+- You do not have 401(k) plan.
+- On 2019-04-01 you contributed $5,500 to traditional IRA allocated to 2018,
+- On 2019-04-01 you contributed $6,000 to traditional IRA allocated to 2019,
+- On 2019-04-03 you converted the full amount $11,500 to ROTH IRA.
+
+Here is how you report:
 
 - On your 2018 form 1040, you report deduction Y1 ($5,500).
 - On your 2019 form 1040, you report deduction Y2 ($6,000) and income Y1 + Y2 ($11,500).
 
-If the situation is that you have 401(k) and high enough wage, then Y1 = Y2 = 0.
+If the situation is that you have 401(k) and high enough wage, or you choose not to deduct, then Y1 = Y2 = 0.
 
 Footnote:
 
